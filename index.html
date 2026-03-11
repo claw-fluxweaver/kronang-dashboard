@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kronängs IF - Kalender</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="logo">
+                <div class="logo-icon">⚽</div>
+                <div class="logo-text">
+                    <h1>Kronängs IF</h1>
+                    <span class="subtitle">Aktivitetskalender</span>
+                </div>
+            </div>
+            <div class="last-updated">
+                <span id="last-updated">Uppdateras...</span>
+            </div>
+        </header>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label for="team-filter">Filtrera efter lag:</label>
+                <select id="team-filter">
+                    <option value="all">Alla lag</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="type-filter">Aktivitetstyp:</label>
+                <select id="type-filter">
+                    <option value="all">Alla typer</option>
+                    <option value="Träning">Träning</option>
+                    <option value="Match">Match</option>
+                    <option value="Övrigt">Övrigt</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <button id="refresh-btn" class="refresh-btn">🔄 Uppdatera</button>
+            </div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <span class="stat-number" id="total-activities">0</span>
+                <span class="stat-label">Kommande aktiviteter</span>
+            </div>
+            <div class="stat-card matches">
+                <span class="stat-number" id="match-count">0</span>
+                <span class="stat-label">Matcher</span>
+            </div>
+            <div class="stat-card training">
+                <span class="stat-number" id="training-count">0</span>
+                <span class="stat-label">Träningar</span>
+            </div>
+        </div>
+
+        <main class="activities-container" id="activities-container">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Laddar kalender...</p>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>Data hämtas från <a href="https://www.kronangsif.se" target="_blank">kronangsif.se</a></p>
+            <p>Uppdateras automatiskt dagligen via GitHub Actions</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
