@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T13:55:57.666990",
+  "last_updated": "2026-03-11T14:05:39.606311",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "activity_count": 134,
   "activities": [
@@ -10,9 +10,8 @@
       "team": "P2016",
       "team_id": "414417",
       "type": "Träning",
-      "description": "Inomhusträning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "01",
@@ -21,9 +20,8 @@
       "team": "Fotbollsskolan födda 2019",
       "team_id": "0",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "01",
@@ -32,9 +30,8 @@
       "team": "Fotbollsskolan födda 2020",
       "team_id": "584817",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "01",
@@ -43,9 +40,8 @@
       "team": "P 2015",
       "team_id": "56158",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "01",
@@ -54,9 +50,8 @@
       "team": "Fotbollsskolan födda 2018",
       "team_id": "520555",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "01",
@@ -65,9 +60,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Träning",
-      "description": "Träning inomhus",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "01",
@@ -76,9 +70,8 @@
       "team": "Fotbollsskolan födda 2017",
       "team_id": "481208",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Töreboda IK borta, Töreboda Sim- och idrottshall(Pojkar Futsal Div 2 2025/2026)Samling: 10:30Som ni förstår behöver vi hjälp med transporten till Töreboda.Ange i kommentaren om ni har möjlighet att kö",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "01",
@@ -87,9 +80,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Töreboda IK borta, Töreboda Sim- och idrottshall(Pojkar Futsal Div 2 2025/2026)Samling: 10:30Som ni förstår behöver vi hjälp med transporten till Töreboda.Ange i kommentaren om ni har möjlighet att kö",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "01",
@@ -98,9 +90,8 @@
       "team": "P2009-2010",
       "team_id": "224798",
       "type": "Träning",
-      "description": "Töreboda IK borta",
-      "location": "Töreboda Sim- och idrottshall (Pojkar Futsal Div 2 2025/2026)",
-      "raw_text": null
+      "description": "Töreboda IK borta, Töreboda Sim- och idrottshall(Pojkar Futsal Div 2 2025/2026)Samling: 10:30Som ni förstår behöver vi hjälp med transporten till Töreboda.Ange i kommentaren om ni har möjlighet att kö",
+      "location": "Töreboda Sim- och idrottshall(Pojkar Futsal Div 2 2025/2026)"
     },
     {
       "day": "01",
@@ -109,9 +100,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Träning",
-      "description": "Skene IF hemma",
-      "location": "Kronängs Arena ()",
-      "raw_text": null
+      "description": "Skene IF hemma, Kronängs Arena()(Match struken)Samling: 13:00Träningsmatch hemma mot Skene IF.Ta på er bra med kläder och nån extra jacka att ha på bänken.",
+      "location": "Kronängs Arena()"
     },
     {
       "day": "01",
@@ -121,8 +111,7 @@
       "team_id": "520574",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "location": "Kristinebergskolan"
     },
     {
       "day": "01",
@@ -130,10 +119,9 @@
       "time": "18:00",
       "team": "Dam",
       "team_id": "52695",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "XPULS",
-      "location": "Poolhouse",
-      "raw_text": null
+      "location": "Poolhouse"
     },
     {
       "day": "02",
@@ -142,9 +130,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Träning",
-      "description": "Föräldramöte P2012",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Föräldramöte P2012, Kronängs ArenaHej alla föräldrar!Vi bjuder in till föräldrarmöte för P2012,och hoppas på att så många som möjligt kan komma.Vi går igenom planering inför säsongen, träningsupplägg ",
+      "location": "Kronängs Arena"
     },
     {
       "day": "02",
@@ -154,8 +141,7 @@
       "team_id": "281528",
       "type": "Träning",
       "description": "ExtraTräning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "02",
@@ -163,10 +149,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning+Avtackning för Edon",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "03",
@@ -175,9 +160,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning utomhus + löpning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "03",
@@ -186,9 +170,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Träning",
-      "description": "Träning utomhus + löpning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning utomhus + löpning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "03",
@@ -198,8 +181,7 @@
       "team_id": "52695",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "03",
@@ -207,10 +189,9 @@
       "time": "18:30",
       "team": "P2009-2010",
       "team_id": "224798",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "04",
@@ -219,9 +200,8 @@
       "team": "F2011-2012",
       "team_id": "281521",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "04",
@@ -231,8 +211,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "04",
@@ -242,8 +221,7 @@
       "team_id": "260562",
       "type": "Träning",
       "description": "FYS-Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "location": "Kristinebergskolan"
     },
     {
       "day": "04",
@@ -253,8 +231,7 @@
       "team_id": "281528",
       "type": "Träning",
       "description": "FYS-Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "location": "Kristinebergskolan"
     },
     {
       "day": "04",
@@ -264,8 +241,7 @@
       "team_id": "56158",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "04",
@@ -273,10 +249,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "05",
@@ -285,9 +260,8 @@
       "team": "P2011",
       "team_id": "260562",
       "type": "Träning",
-      "description": "Träning utomhus",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "05",
@@ -296,9 +270,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "05",
@@ -307,9 +280,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "X-Fit, Xpuls Poolhouse",
+      "location": "Kronängs Arena"
     },
     {
       "day": "05",
@@ -317,10 +289,9 @@
       "time": "19:00",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
-      "description": "X-Fit",
-      "location": "Xpuls Poolhouse",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "X-Fit, Xpuls Poolhouse",
+      "location": "Xpuls Poolhouse"
     },
     {
       "day": "06",
@@ -328,10 +299,9 @@
       "time": "19:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Match",
-      "description": "Rydboholms SK hemma",
-      "location": "Kronängs Arena A-plan ()",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Rydboholms SK hemma, Kronängs Arena A-plan()Samling: 18:15",
+      "location": "Kronängs Arena A-plan()"
     },
     {
       "day": "07",
@@ -340,9 +310,8 @@
       "team": "Fotbollsskolan födda 2018",
       "team_id": "520555",
       "type": "Match",
-      "description": "Sammandrag i Rydahallen",
-      "location": "Rydahallen",
-      "raw_text": null
+      "description": "Sammandrag i Rydahallen, RydahallenHej Allihopa!Den 7/3 så är vi inbjudna till sammandrag i Rydahallen. Detta skulle vara ett bra tillfälle för att låta killarna prova på att få spela matcher. Tyvärr ",
+      "location": "Rydahallen"
     },
     {
       "day": "07",
@@ -351,9 +320,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Match",
-      "description": "IK Frisco borta",
-      "location": "Vårgårda (Damer DM - Grupp 5)",
-      "raw_text": null
+      "description": "IK Frisco borta, Björkvallen konstgräs, Vårgårda(Damer DM - Grupp 5)Samling: 08:45",
+      "location": "Björkvallen konstgräs, Vårgårda(Damer DM - Grupp 5)"
     },
     {
       "day": "07",
@@ -362,9 +330,8 @@
       "team": "VEO kamera",
       "team_id": "430796",
       "type": "Match",
-      "description": "IK Frisco borta",
-      "location": "Vårgårda (Damer DM - Grupp 5 VEO)",
-      "raw_text": null
+      "description": "IK Frisco borta, Björkvallen konstgräs, Vårgårda(Damer DM - Grupp 5 VEO)Samling: 10:15",
+      "location": "Björkvallen konstgräs, Vårgårda(Damer DM - Grupp 5 VEO)"
     },
     {
       "day": "07",
@@ -372,10 +339,9 @@
       "time": "14:00",
       "team": "P2009-2010",
       "team_id": "224798",
-      "type": "Match",
-      "description": "Condor FC borta",
-      "location": "Ängshallen ()",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Condor FC borta, Ängshallen()Samling: 12:30",
+      "location": "Ängshallen()"
     },
     {
       "day": "08",
@@ -384,9 +350,8 @@
       "team": "P 2015",
       "team_id": "56158",
       "type": "Match",
-      "description": "Cup i Rydahallen",
-      "location": "Rydahallen",
-      "raw_text": null
+      "description": "Cup i Rydahallen, RydahallenDet blir tre matcher på konstgräs inomhus i Rydahallen. Vi spelar under förmiddagen, men schemat är inte helt spikat än. Om ditt barn kan vara med, svara snabbt på kallelse",
+      "location": "Rydahallen"
     },
     {
       "day": "08",
@@ -395,9 +360,8 @@
       "team": "P2016",
       "team_id": "414417",
       "type": "Match",
-      "description": "Inomhusträning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träningsmatch HSV Norge, Borås Arena 2Träningsmatch mot HSV Fotboll från Norge11v11 på Borås arena 2Samling kl 09:00 på Borås Arena 2Ombytta och klaraMatch-tröja får du på plats!",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "08",
@@ -406,9 +370,8 @@
       "team": "Fotbollsskolan födda 2019",
       "team_id": "0",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träningsmatch HSV Norge, Borås Arena 2Träningsmatch mot HSV Fotboll från Norge11v11 på Borås arena 2Samling kl 09:00 på Borås Arena 2Ombytta och klaraMatch-tröja får du på plats!",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "08",
@@ -417,9 +380,8 @@
       "team": "Fotbollsskolan födda 2020",
       "team_id": "584817",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träningsmatch HSV Norge, Borås Arena 2Träningsmatch mot HSV Fotboll från Norge11v11 på Borås arena 2Samling kl 09:00 på Borås Arena 2Ombytta och klaraMatch-tröja får du på plats!",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "08",
@@ -428,9 +390,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Match",
-      "description": "Träningsmatch HSV Norge",
-      "location": "Borås Arena 2",
-      "raw_text": null
+      "description": "Träningsmatch HSV Norge, Borås Arena 2Träningsmatch mot HSV Fotboll från Norge11v11 på Borås arena 2Samling kl 09:00 på Borås Arena 2Ombytta och klaraMatch-tröja får du på plats!",
+      "location": "Borås Arena 2"
     },
     {
       "day": "08",
@@ -439,9 +400,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Match",
-      "description": "Träning inomhus",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "08",
@@ -450,9 +410,8 @@
       "team": "Fotbollsskolan födda 2017",
       "team_id": "481208",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "HSV Fotboll hemma, Kronängs Arena B-plan()Samling: 12:00Träningsmatch mot HSV Fotboll från Norge som är på besök i Borås.",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "08",
@@ -461,9 +420,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Match",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "HSV Fotboll hemma, Kronängs Arena B-plan()Samling: 12:00Träningsmatch mot HSV Fotboll från Norge som är på besök i Borås.",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "08",
@@ -472,9 +430,8 @@
       "team": "P2009-2010",
       "team_id": "224798",
       "type": "Match",
-      "description": "HSV Fotboll hemma",
-      "location": "Kronängs Arena B-plan ()",
-      "raw_text": null
+      "description": "HSV Fotboll hemma, Kronängs Arena B-plan()Samling: 12:00Träningsmatch mot HSV Fotboll från Norge som är på besök i Borås.",
+      "location": "Kronängs Arena B-plan()"
     },
     {
       "day": "08",
@@ -483,9 +440,8 @@
       "team": "VEO kamera",
       "team_id": "430796",
       "type": "Match",
-      "description": "Rydboholms SK hemma",
-      "location": "Kronängs Arena A-plan ()",
-      "raw_text": null
+      "description": "Fristad GoIF  borta, Fristad()Samling: 15:45Träningsmatch!!Kläder efter väder.Spelas på Heden i Fristad.",
+      "location": "Kronängs Arena A-plan()"
     },
     {
       "day": "08",
@@ -494,9 +450,8 @@
       "team": "F2015-2016",
       "team_id": "520574",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Fristad GoIF  borta, Fristad()Samling: 15:45Träningsmatch!!Kläder efter väder.Spelas på Heden i Fristad.",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "08",
@@ -504,10 +459,9 @@
       "time": "17:00",
       "team": "P2011",
       "team_id": "260562",
-      "type": "Match",
-      "description": "Fristad GoIF  borta",
-      "location": "Fristad ()",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Fristad GoIF  borta, Fristad()Samling: 15:45Träningsmatch!!Kläder efter väder.Spelas på Heden i Fristad.",
+      "location": "Fristad()"
     },
     {
       "day": "09",
@@ -515,10 +469,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "10",
@@ -527,9 +480,8 @@
       "team": "P2011",
       "team_id": "260562",
       "type": "Träning",
-      "description": "Konditionsträning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Konditionsträning, Kronängs ArenaKondition/fys träning.På med löparskorna! Kläder efter väder och ta med vattenflaska!",
+      "location": "Kronängs Arena"
     },
     {
       "day": "10",
@@ -538,9 +490,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Träning",
-      "description": "Konditionsträning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Konditionsträning, Kronängs ArenaKondition/fys träning.På med löparskorna! Kläder efter väder och ta med vattenflaska!",
+      "location": "Kronängs Arena"
     },
     {
       "day": "10",
@@ -549,9 +500,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "10",
@@ -560,9 +510,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Träning",
-      "description": "Träning utomhus",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning utomhus, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "10",
@@ -571,9 +520,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "10",
@@ -581,10 +529,9 @@
       "time": "18:30",
       "team": "P2009-2010",
       "team_id": "224798",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "11",
@@ -593,9 +540,8 @@
       "team": "F2011-2012",
       "team_id": "281521",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "11",
@@ -605,8 +551,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "11",
@@ -616,8 +561,7 @@
       "team_id": "56158",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "11",
@@ -625,10 +569,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "12",
@@ -637,9 +580,8 @@
       "team": "P2011",
       "team_id": "260562",
       "type": "Träning",
-      "description": "Träning utomhus",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "12",
@@ -648,9 +590,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "12",
@@ -659,9 +600,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "X-Fit, Xpuls Poolhouse",
+      "location": "Kronängs Arena"
     },
     {
       "day": "12",
@@ -669,10 +609,9 @@
       "time": "19:00",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
-      "description": "X-Fit",
-      "location": "Xpuls Poolhouse",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "X-Fit, Xpuls Poolhouse",
+      "location": "Xpuls Poolhouse"
     },
     {
       "day": "14",
@@ -681,9 +620,8 @@
       "team": "Klubbstuga",
       "team_id": "181941",
       "type": "Övrigt",
-      "description": "Möte",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Möte, Kronängs ArenaStefan Wiland",
+      "location": "Kronängs Arena"
     },
     {
       "day": "14",
@@ -692,9 +630,8 @@
       "team": "VEO kamera",
       "team_id": "430796",
       "type": "Övrigt",
-      "description": "Äspereds IF hemma",
-      "location": "Annan ()",
-      "raw_text": null
+      "description": "Lagaktivitet, SimonslandVi kör Peddas event tillsammans med herrlaget! Ungefär samma upplägg som förra året!!",
+      "location": "Annan()"
     },
     {
       "day": "14",
@@ -703,9 +640,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Övrigt",
-      "description": "Lagaktivitet",
-      "location": "Simonsland",
-      "raw_text": null
+      "description": "Lagaktivitet, SimonslandVi kör Peddas event tillsammans med herrlaget! Ungefär samma upplägg som förra året!!",
+      "location": "Simonsland"
     },
     {
       "day": "14",
@@ -715,8 +651,7 @@
       "team_id": "38937",
       "type": "Övrigt",
       "description": "Peddas Events med Damerna",
-      "location": "Simonsland",
-      "raw_text": null
+      "location": "Simonsland"
     },
     {
       "day": "15",
@@ -725,9 +660,8 @@
       "team": "VEO kamera",
       "team_id": "430796",
       "type": "Träning",
-      "description": "Vara SK hemma",
-      "location": "Kronäng Arena konstgräs 1 (Damer DM - Grupp 5 VEO)",
-      "raw_text": null
+      "description": "Vara SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5 VEO)Samling: 23:00",
+      "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5 VEO)"
     },
     {
       "day": "15",
@@ -736,9 +670,8 @@
       "team": "P2016",
       "team_id": "414417",
       "type": "Träning",
-      "description": "Inomhusträning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Vara SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5)Samling: 09:30",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "15",
@@ -747,9 +680,8 @@
       "team": "Fotbollsskolan födda 2019",
       "team_id": "0",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Vara SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5)Samling: 09:30",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "15",
@@ -758,9 +690,8 @@
       "team": "Fotbollsskolan födda 2020",
       "team_id": "584817",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Vara SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5)Samling: 09:30",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "15",
@@ -769,9 +700,8 @@
       "team": "P 2015",
       "team_id": "56158",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Vara SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5)Samling: 09:30",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "15",
@@ -780,9 +710,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Vara SK hemma",
-      "location": "Kronäng Arena konstgräs 1 (Damer DM - Grupp 5)",
-      "raw_text": null
+      "description": "Vara SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5)Samling: 09:30",
+      "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5)"
     },
     {
       "day": "15",
@@ -791,9 +720,8 @@
       "team": "Fotbollsskolan födda 2018",
       "team_id": "520555",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "15",
@@ -802,9 +730,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Träning",
-      "description": "Träning inomhus",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "15",
@@ -813,9 +740,8 @@
       "team": "Fotbollsskolan födda 2017",
       "team_id": "481208",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Svenljunga och Kinna borta, Kronängs Arena()Samling: 12:30Vi samlas på Kronäng för att gemensamt åka ut mot Svenljunga.Vi kommer spela 2 matcher. Mot Svenljunga och Kinna.Så ta gärna med lite mellanmå",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "15",
@@ -824,9 +750,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Svenljunga och Kinna borta, Kronängs Arena()Samling: 12:30Vi samlas på Kronäng för att gemensamt åka ut mot Svenljunga.Vi kommer spela 2 matcher. Mot Svenljunga och Kinna.Så ta gärna med lite mellanmå",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "15",
@@ -835,9 +760,8 @@
       "team": "F2013/2014",
       "team_id": "374981",
       "type": "Träning",
-      "description": "Svenljunga och Kinna borta",
-      "location": "Kronängs Arena ()",
-      "raw_text": null
+      "description": "Svenljunga och Kinna borta, Kronängs Arena()Samling: 12:30Vi samlas på Kronäng för att gemensamt åka ut mot Svenljunga.Vi kommer spela 2 matcher. Mot Svenljunga och Kinna.Så ta gärna med lite mellanmå",
+      "location": "Kronängs Arena()"
     },
     {
       "day": "15",
@@ -847,8 +771,7 @@
       "team_id": "224798",
       "type": "Träning",
       "description": "Internmatch",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "15",
@@ -856,10 +779,9 @@
       "time": "16:00",
       "team": "F2015-2016",
       "team_id": "520574",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "location": "Kristinebergskolan"
     },
     {
       "day": "16",
@@ -867,10 +789,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "17",
@@ -879,9 +800,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "17",
@@ -890,9 +810,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Träning",
-      "description": "Träning utomhus + löpning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning utomhus + löpning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "17",
@@ -901,9 +820,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "17",
@@ -911,10 +829,9 @@
       "time": "18:30",
       "team": "P2009-2010",
       "team_id": "224798",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "18",
@@ -923,9 +840,8 @@
       "team": "F2011-2012",
       "team_id": "281521",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "18",
@@ -935,8 +851,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "18",
@@ -946,8 +861,7 @@
       "team_id": "56158",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "18",
@@ -955,10 +869,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "19",
@@ -967,9 +880,8 @@
       "team": "P2011",
       "team_id": "260562",
       "type": "Träning",
-      "description": "Träning utomhus",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "19",
@@ -978,9 +890,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "19",
@@ -989,9 +900,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "X-Fit, Xpuls Poolhouse",
+      "location": "Kronängs Arena"
     },
     {
       "day": "19",
@@ -999,10 +909,9 @@
       "time": "19:00",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
-      "description": "X-Fit",
-      "location": "Xpuls Poolhouse",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "X-Fit, Xpuls Poolhouse",
+      "location": "Xpuls Poolhouse"
     },
     {
       "day": "20",
@@ -1011,9 +920,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Match",
-      "description": "Karlslundscupen 20-22 Mars",
-      "location": "Örebro",
-      "raw_text": null
+      "description": "Karlslundscupen 20-22 Mars, ÖrebroVIKTIGT ATT SVARA PÅ DETTA!Fotbollscup med P2012 i Örebro fredagen den 20 mars till söndagen den 22 mars.Vi kommer spela minst 5 matcher 2x25 min 9v9Boende på hotell ",
+      "location": "Örebro"
     },
     {
       "day": "20",
@@ -1021,10 +929,9 @@
       "time": "19:00",
       "team": "VEO kamera",
       "team_id": "430796",
-      "type": "Match",
+      "type": "Övrigt",
       "description": "Marbäcks IF hemma",
-      "location": "Kronängs Arena A-plan ()",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan()"
     },
     {
       "day": "21",
@@ -1033,9 +940,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Match",
-      "description": "Vartofta SK hemma",
-      "location": "Kronäng Arena konstgräs 1 (Damer DM - Grupp 5)",
-      "raw_text": null
+      "description": "Vartofta SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5)Samling: 22:30",
+      "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5)"
     },
     {
       "day": "21",
@@ -1043,10 +949,9 @@
       "time": "00:00",
       "team": "VEO kamera",
       "team_id": "430796",
-      "type": "Match",
-      "description": "Vartofta SK hemma",
-      "location": "Kronäng Arena konstgräs 1 (Damer DM - Grupp 5 VEO)",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Vartofta SK hemma, Kronäng Arena konstgräs 1(Damer DM - Grupp 5 VEO)Samling: 23:00",
+      "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5 VEO)"
     },
     {
       "day": "22",
@@ -1055,9 +960,8 @@
       "team": "Fotbollsskolan födda 2019",
       "team_id": "0",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träningsmatcher mot Bergdalens IK, Kronängs Arena",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "22",
@@ -1066,9 +970,8 @@
       "team": "Fotbollsskolan födda 2020",
       "team_id": "584817",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träningsmatcher mot Bergdalens IK, Kronängs Arena",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "22",
@@ -1077,9 +980,8 @@
       "team": "P 2015",
       "team_id": "56158",
       "type": "Match",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träningsmatcher mot Bergdalens IK, Kronängs Arena",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "22",
@@ -1088,9 +990,8 @@
       "team": "Fotbollsskolan födda 2018",
       "team_id": "520555",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Träningsmatcher mot Bergdalens IK, Kronängs Arena",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "22",
@@ -1099,9 +1000,8 @@
       "team": "P2016",
       "team_id": "414417",
       "type": "Match",
-      "description": "Träningsmatcher mot Bergdalens IK",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träningsmatcher mot Bergdalens IK, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "22",
@@ -1110,9 +1010,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Match",
-      "description": "Träning inomhus",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Träning inomhus, Fredriksborgshallen",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "22",
@@ -1122,8 +1021,7 @@
       "team_id": "481208",
       "type": "Match",
       "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "location": "Kristinebergskolan"
     },
     {
       "day": "22",
@@ -1131,10 +1029,9 @@
       "time": "15:00",
       "team": "P2013",
       "team_id": "324307",
-      "type": "Match",
+      "type": "Övrigt",
       "description": "Mariedals IK hemma",
-      "location": "Kronängs Arena ()",
-      "raw_text": null
+      "location": "Kronängs Arena()"
     },
     {
       "day": "23",
@@ -1142,10 +1039,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "24",
@@ -1154,9 +1050,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "24",
@@ -1165,9 +1060,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Träning",
-      "description": "Träning utomhus",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning utomhus, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "24",
@@ -1176,9 +1070,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "24",
@@ -1186,10 +1079,9 @@
       "time": "18:30",
       "team": "P2009-2010",
       "team_id": "224798",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "25",
@@ -1198,9 +1090,8 @@
       "team": "F2011-2012",
       "team_id": "281521",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "25",
@@ -1210,8 +1101,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "25",
@@ -1221,8 +1111,7 @@
       "team_id": "56158",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "25",
@@ -1230,10 +1119,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "26",
@@ -1242,9 +1130,8 @@
       "team": "P2011",
       "team_id": "260562",
       "type": "Träning",
-      "description": "Träning utomhus",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "26",
@@ -1253,9 +1140,8 @@
       "team": "P2012",
       "team_id": "281528",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "26",
@@ -1263,10 +1149,9 @@
       "time": "18:30",
       "team": "Dam",
       "team_id": "52695",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "location": "Kronängs Arena"
     },
     {
       "day": "27",
@@ -1274,10 +1159,9 @@
       "time": "18:00",
       "team": "VEO kamera",
       "team_id": "430796",
-      "type": "Match",
+      "type": "Övrigt",
       "description": "Mariedals IK hemma",
-      "location": "Kransmossen ()",
-      "raw_text": null
+      "location": "Kransmossen()"
     },
     {
       "day": "28",
@@ -1286,9 +1170,8 @@
       "team": "Klubbstuga",
       "team_id": "181941",
       "type": "Övrigt",
-      "description": "Möte",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Möte, Kronängs ArenaUthyrt Petersmo",
+      "location": "Kronängs Arena"
     },
     {
       "day": "29",
@@ -1297,9 +1180,8 @@
       "team": "P2016",
       "team_id": "414417",
       "type": "Match",
-      "description": "Inomhusträning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Brämhults IK borta, Brämhults IP()Samling: 10:00",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "29",
@@ -1308,9 +1190,8 @@
       "team": "Fotbollsskolan födda 2019",
       "team_id": "0",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Brämhults IK borta, Brämhults IP()Samling: 10:00",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "29",
@@ -1319,9 +1200,8 @@
       "team": "Fotbollsskolan födda 2020",
       "team_id": "584817",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Brämhults IK borta, Brämhults IP()Samling: 10:00",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "29",
@@ -1330,9 +1210,8 @@
       "team": "P 2015",
       "team_id": "56158",
       "type": "Match",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
-      "raw_text": null
+      "description": "Brämhults IK borta, Brämhults IP()Samling: 10:00",
+      "location": "Fredriksborgshallen"
     },
     {
       "day": "29",
@@ -1341,9 +1220,8 @@
       "team": "Fotbollsskolan födda 2018",
       "team_id": "520555",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Brämhults IK borta, Brämhults IP()Samling: 10:00",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "29",
@@ -1352,9 +1230,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Match",
-      "description": "Brämhults IK borta",
-      "location": "Brämhults IP ()",
-      "raw_text": null
+      "description": "Brämhults IK borta, Brämhults IP()Samling: 10:00",
+      "location": "Brämhults IP()"
     },
     {
       "day": "29",
@@ -1363,9 +1240,8 @@
       "team": "F2013/2014",
       "team_id": "374981",
       "type": "Match",
-      "description": "Match",
-      "location": "Skene",
-      "raw_text": null
+      "description": "Match, Skene",
+      "location": "Skene"
     },
     {
       "day": "29",
@@ -1374,9 +1250,8 @@
       "team": "Fotbollsskolan födda 2017",
       "team_id": "481208",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kristinebergskolan",
-      "raw_text": null
+      "description": "Sjömarkens If P.14 borta, Idrottsgården, Sjömarken()Samling: 12:00",
+      "location": "Kristinebergskolan"
     },
     {
       "day": "29",
@@ -1385,9 +1260,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Match",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Sjömarkens If P.14 borta, Idrottsgården, Sjömarken()Samling: 12:00",
+      "location": "Kronängs Arena"
     },
     {
       "day": "29",
@@ -1396,9 +1270,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Match",
-      "description": "Sjömarkens If P.14 borta",
-      "location": "Sjömarken ()",
-      "raw_text": null
+      "description": "Sjömarkens If P.14 borta, Idrottsgården, Sjömarken()Samling: 12:00",
+      "location": "Idrottsgården, Sjömarken()"
     },
     {
       "day": "29",
@@ -1406,10 +1279,9 @@
       "time": "14:00",
       "team": "VEO kamera",
       "team_id": "430796",
-      "type": "Match",
+      "type": "Övrigt",
       "description": "Sandareds IF hemma",
-      "location": "Annan ()",
-      "raw_text": null
+      "location": "Annan()"
     },
     {
       "day": "30",
@@ -1417,10 +1289,9 @@
       "time": "18:30",
       "team": "Herr",
       "team_id": "38937",
-      "type": "Träning",
+      "type": "Övrigt",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "31",
@@ -1429,9 +1300,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Föranmälan Laxacupen 22/7-26/7",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Föranmälan Laxacupen 22/7-26/7, Kronängs ArenaFöranmälan till Laxacupen i Halmstad som går av stapeln mellan den 23/7 - 26/7.Vi kommer att åka ned onsdagen den 22/7.Kostnad per spelare kommer vara min",
+      "location": "Kronängs Arena"
     },
     {
       "day": "31",
@@ -1440,9 +1310,8 @@
       "team": "P2013",
       "team_id": "324307",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "31",
@@ -1451,9 +1320,8 @@
       "team": "P2014",
       "team_id": "324331",
       "type": "Träning",
-      "description": "Träning utomhus + löpning",
-      "location": "Kronängs Arena A-plan",
-      "raw_text": null
+      "description": "Träning utomhus + löpning, Kronängs Arena A-plan",
+      "location": "Kronängs Arena A-plan"
     },
     {
       "day": "31",
@@ -1462,9 +1330,8 @@
       "team": "Dam",
       "team_id": "52695",
       "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     },
     {
       "day": "31",
@@ -1472,10 +1339,9 @@
       "time": "18:30",
       "team": "P2009-2010",
       "team_id": "224798",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "raw_text": null
+      "type": "Övrigt",
+      "description": "Träning, Kronängs Arena",
+      "location": "Kronängs Arena"
     }
   ]
 }
