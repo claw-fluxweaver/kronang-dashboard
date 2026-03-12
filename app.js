@@ -4,6 +4,8 @@ const DATA_URL = 'data/calendar.json';
 
 let allActivities = [];
 let teams = new Set();
+let calendarMonth = null;
+let calendarYear = null;
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
@@ -37,7 +39,9 @@ async function loadData() {
         
         const data = await response.json();
         allActivities = data.activities || [];
-        
+        calendarMonth = data.month || null;
+        calendarYear = data.year || null;
+
         // Update last updated time
         const lastUpdated = new Date(data.last_updated);
         document.getElementById('last-updated').textContent = 
@@ -137,13 +141,22 @@ function renderActivities(activities) {
     
     let html = '';
     
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
     Object.entries(grouped).forEach(([dayKey, dayActivities]) => {
         const dayInfo = dayActivities[0];
         const dayNum = dayInfo.day || dayKey.split('-')[2] || dayKey;
         const weekday = dayInfo.weekday || '';
-        
+
+        let isPast = false;
+        if (calendarMonth && calendarYear) {
+            const dayDate = new Date(calendarYear, calendarMonth - 1, parseInt(dayNum));
+            isPast = dayDate < today;
+        }
+
         html += `
-            <div class="activity-date-group">
+            <div class="activity-date-group${isPast ? ' past' : ''}">
                 <div class="date-header">
                     <span class="day-number">${dayNum}</span>
                     <span class="weekday">${weekday}</span>

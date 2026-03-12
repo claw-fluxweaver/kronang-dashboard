@@ -1,7 +1,9 @@
 {
-  "last_updated": "2026-03-12T07:59:24.323212",
+  "last_updated": "2026-03-12T09:42:08.681345",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
-  "activity_count": 135,
+  "month": 3,
+  "year": 2026,
+  "activity_count": 134,
   "activities": [
     {
       "day": "01",
@@ -1182,16 +1184,6 @@
       "type": "Övrigt",
       "description": "Möte",
       "location": "Kronängs Arena"
-    },
-    {
-      "day": "29",
-      "weekday": "sön",
-      "time": "08:45",
-      "team": "P2016",
-      "team_id": "414417",
-      "type": "Träning",
-      "description": "Inomhusträning",
-      "location": "Fredriksborgshallen"
     },
     {
       "day": "29",

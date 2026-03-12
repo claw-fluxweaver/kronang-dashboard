@@ -34,6 +34,24 @@ def fetch_calendar():
     response.encoding = 'iso-8859-1'
     return response.text
 
+SWEDISH_MONTHS = {
+    "JANUARI": 1, "FEBRUARI": 2, "MARS": 3, "APRIL": 4,
+    "MAJ": 5, "JUNI": 6, "JULI": 7, "AUGUSTI": 8,
+    "SEPTEMBER": 9, "OKTOBER": 10, "NOVEMBER": 11, "DECEMBER": 12,
+}
+
+def parse_month_year(html):
+    """Extract month and year from the calendar header (e.g. 'MARS 2026')."""
+    soup = BeautifulSoup(html, 'html.parser')
+    header = soup.find('b', style=re.compile(r'font-size'))
+    if header:
+        parts = header.get_text(strip=True).upper().split()
+        if len(parts) == 2:
+            month = SWEDISH_MONTHS.get(parts[0], datetime.now().month)
+            year = int(parts[1]) if parts[1].isdigit() else datetime.now().year
+            return month, year
+    return datetime.now().month, datetime.now().year
+
 def parse_calendar(html):
     soup = BeautifulSoup(html, 'html.parser')
     activities = []
@@ -153,11 +171,13 @@ def parse_activity(row, day, weekday):
     }
 
 
-def save_data(activities):
+def save_data(activities, month, year):
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     data = {
         "last_updated": datetime.now().isoformat(),
         "source": CALENDAR_URL,
+        "month": month,
+        "year": year,
         "activity_count": len(activities),
         "activities": activities
     }
@@ -169,8 +189,10 @@ def save_data(activities):
 def main():
     print("Fetching Kronängs IF calendar...")
     html = fetch_calendar()
+    month, year = parse_month_year(html)
+    print(f"Calendar month: {month}/{year}")
     activities = parse_calendar(html)
-    save_data(activities)
+    save_data(activities, month, year)
     print(f"Done! Found {len(activities)} activities")
 
 if __name__ == "__main__":

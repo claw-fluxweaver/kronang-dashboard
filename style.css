@@ -229,6 +229,19 @@ body {
     border-bottom: none;
 }
 
+/* Past dates */
+.activity-date-group.past {
+    opacity: 0.4;
+}
+
+.activity-date-group.past .date-header .day-number {
+    background: var(--text-muted);
+}
+
+.activity-date-group.past .activity-item:hover {
+    background: transparent;
+}
+
 .date-header {
     background: var(--background);
     padding: 1rem 1.5rem;
