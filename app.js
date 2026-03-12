@@ -4,8 +4,19 @@ const DATA_URL = 'data/calendar.json';
 
 let allActivities = [];
 let teams = new Set();
-let calendarMonth = null;
-let calendarYear = null;
+
+// Today as ISO string "YYYY-MM-DD" for easy comparison with activity.date
+function todayISO() {
+    const d = new Date();
+    return d.getFullYear() + '-' +
+        String(d.getMonth() + 1).padStart(2, '0') + '-' +
+        String(d.getDate()).padStart(2, '0');
+}
+
+function isPast(activity) {
+    if (!activity.date) return false;
+    return activity.date < todayISO();
+}
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
@@ -17,9 +28,7 @@ function setupEventListeners() {
     document.getElementById('team-filter').addEventListener('change', filterActivities);
     document.getElementById('type-filter').addEventListener('change', filterActivities);
     document.getElementById('show-past').addEventListener('change', filterActivities);
-    document.getElementById('refresh-btn').addEventListener('click', () => {
-        loadData();
-    });
+    document.getElementById('refresh-btn').addEventListener('click', loadData);
 }
 
 async function loadData() {
@@ -32,34 +41,21 @@ async function loadData() {
     `;
 
     try {
-        // Add timestamp to prevent caching
         const response = await fetch(`${DATA_URL}?t=${Date.now()}`);
-        if (!response.ok) {
-            throw new Error('Failed to load data');
-        }
-        
+        if (!response.ok) throw new Error('Failed to load data');
+
         const data = await response.json();
         allActivities = data.activities || [];
-        calendarMonth = data.month || null;
-        calendarYear = data.year || null;
 
-        // Update last updated time
         const lastUpdated = new Date(data.last_updated);
-        document.getElementById('last-updated').textContent = 
+        document.getElementById('last-updated').textContent =
             `Uppdaterad: ${lastUpdated.toLocaleString('sv-SE')}`;
-        
-        // Extract unique teams
+
         teams.clear();
-        allActivities.forEach(a => {
-            if (a.team) teams.add(a.team);
-        });
-        
-        // Populate team filter
+        allActivities.forEach(a => { if (a.team) teams.add(a.team); });
         populateTeamFilter();
-        
-        // Render activities (also updates stats)
         filterActivities();
-        
+
     } catch (error) {
         console.error('Error loading data:', error);
         container.innerHTML = `
@@ -75,59 +71,31 @@ async function loadData() {
 function populateTeamFilter() {
     const select = document.getElementById('team-filter');
     const currentValue = select.value;
-    
-    // Keep the "Alla lag" option
     select.innerHTML = '<option value="all">Alla lag</option>';
-    
-    // Sort teams alphabetically
-    const sortedTeams = Array.from(teams).sort();
-    
-    sortedTeams.forEach(team => {
+    Array.from(teams).sort().forEach(team => {
         const option = document.createElement('option');
         option.value = team;
         option.textContent = team;
         select.appendChild(option);
     });
-    
-    // Restore previous selection if valid
     if (currentValue && (currentValue === 'all' || teams.has(currentValue))) {
         select.value = currentValue;
     }
 }
 
-function updateStats(activities) {
-    const total = activities.length;
-    const matches = activities.filter(a => a.type === 'Match').length;
-    const training = activities.filter(a => a.type === 'Träning').length;
-    
-    document.getElementById('total-activities').textContent = total;
-    document.getElementById('match-count').textContent = matches;
-    document.getElementById('training-count').textContent = training;
-}
-
-function isPastActivity(activity) {
-    if (!calendarMonth || !calendarYear) return false;
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-    const dayDate = new Date(calendarYear, calendarMonth - 1, parseInt(activity.day));
-    return dayDate < today;
-}
-
 function filterActivities() {
     const teamFilter = document.getElementById('team-filter').value;
     const typeFilter = document.getElementById('type-filter').value;
-    const showPast = document.getElementById('show-past').checked;
+    const showPast   = document.getElementById('show-past').checked;
 
     let filtered = allActivities;
 
     if (!showPast) {
-        filtered = filtered.filter(a => !isPastActivity(a));
+        filtered = filtered.filter(a => !isPast(a));
     }
-
     if (teamFilter !== 'all') {
         filtered = filtered.filter(a => a.team === teamFilter);
     }
-
     if (typeFilter !== 'all') {
         filtered = filtered.filter(a => a.type === typeFilter);
     }
@@ -136,9 +104,15 @@ function filterActivities() {
     renderActivities(filtered);
 }
 
+function updateStats(activities) {
+    document.getElementById('total-activities').textContent = activities.length;
+    document.getElementById('match-count').textContent    = activities.filter(a => a.type === 'Match').length;
+    document.getElementById('training-count').textContent = activities.filter(a => a.type === 'Träning').length;
+}
+
 function renderActivities(activities) {
     const container = document.getElementById('activities-container');
-    
+
     if (activities.length === 0) {
         container.innerHTML = `
             <div class="empty-state">
@@ -149,73 +123,51 @@ function renderActivities(activities) {
         `;
         return;
     }
-    
-    // Group activities by day
+
+    const today = todayISO();
     const grouped = groupByDay(activities);
-    
     let html = '';
-    
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
 
     Object.entries(grouped).forEach(([dayKey, dayActivities]) => {
-        const dayInfo = dayActivities[0];
-        const dayNum = dayInfo.day || dayKey.split('-')[2] || dayKey;
-        const weekday = dayInfo.weekday || '';
-
-        let isPast = false;
-        if (calendarMonth && calendarYear) {
-            const dayDate = new Date(calendarYear, calendarMonth - 1, parseInt(dayNum));
-            isPast = dayDate < today;
-        }
+        const dayInfo   = dayActivities[0];
+        const dayNum    = dayInfo.day || '';
+        const weekday   = dayInfo.weekday || '';
+        const past      = dayInfo.date && dayInfo.date < today;
 
         html += `
-            <div class="activity-date-group${isPast ? ' past' : ''}">
+            <div class="activity-date-group${past ? ' past' : ''}">
                 <div class="date-header">
                     <span class="day-number">${dayNum}</span>
                     <span class="weekday">${weekday}</span>
                 </div>
                 <div class="activity-list">
-                    ${dayActivities.map(a => renderActivity(a)).join('')}
+                    ${dayActivities.map(renderActivity).join('')}
                 </div>
             </div>
         `;
     });
-    
+
     container.innerHTML = html;
 }
 
 function groupByDay(activities) {
     const grouped = {};
-    
-    activities.forEach(activity => {
-        const day = activity.day || '0';
-        const key = `day-${day}`;
-        
-        if (!grouped[key]) {
-            grouped[key] = [];
-        }
-        grouped[key].push(activity);
+    activities.forEach(a => {
+        const key = a.date || `day-${a.day}`;
+        if (!grouped[key]) grouped[key] = [];
+        grouped[key].push(a);
     });
-    
-    // Sort by day number
     return Object.fromEntries(
-        Object.entries(grouped).sort(([a], [b]) => {
-            const dayA = parseInt(a.split('-')[1]) || 0;
-            const dayB = parseInt(b.split('-')[1]) || 0;
-            return dayA - dayB;
-        })
+        Object.entries(grouped).sort(([a], [b]) => a.localeCompare(b))
     );
 }
 
 function renderActivity(activity) {
-    const typeClass = activity.type === 'Match' ? 'match' : 
+    const typeClass = activity.type === 'Match'   ? 'match'    :
                       activity.type === 'Träning' ? 'training' : 'other';
-    
-    const location = activity.location ? `
-        <div class="activity-location">${activity.location}</div>
-    ` : '';
-    
+    const location = activity.location
+        ? `<div class="activity-location">${activity.location}</div>` : '';
+
     return `
         <div class="activity-item">
             <div class="activity-time">${activity.time || 'TBD'}</div>

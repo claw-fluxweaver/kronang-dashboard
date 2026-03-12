@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Kronängs IF Calendar Scraper v4 - Fixed parsing for malformed HTML
+Kronängs IF Calendar Scraper v5
 """
 import requests
 from bs4 import BeautifulSoup
 import json
 import re
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 
 CALENDAR_URL = "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276"
@@ -27,6 +27,13 @@ ACTIVITY_TYPES = {
     "calBox1": "Träning", "calBox2": "Match", "calBox3": "Övrigt"
 }
 
+SWEDISH_MONTHS = {
+    "JANUARI": 1, "FEBRUARI": 2, "MARS": 3, "APRIL": 4,
+    "MAJ": 5, "JUNI": 6, "JULI": 7, "AUGUSTI": 8,
+    "SEPTEMBER": 9, "OKTOBER": 10, "NOVEMBER": 11, "DECEMBER": 12,
+}
+
+
 def fetch_calendar():
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(CALENDAR_URL, headers=headers, timeout=30)
@@ -34,15 +41,9 @@ def fetch_calendar():
     response.encoding = 'iso-8859-1'
     return response.text
 
-SWEDISH_MONTHS = {
-    "JANUARI": 1, "FEBRUARI": 2, "MARS": 3, "APRIL": 4,
-    "MAJ": 5, "JUNI": 6, "JULI": 7, "AUGUSTI": 8,
-    "SEPTEMBER": 9, "OKTOBER": 10, "NOVEMBER": 11, "DECEMBER": 12,
-}
 
-def parse_month_year(html):
+def parse_month_year(soup):
     """Extract month and year from the calendar header (e.g. 'MARS 2026')."""
-    soup = BeautifulSoup(html, 'html.parser')
     header = soup.find('b', style=re.compile(r'font-size'))
     if header:
         parts = header.get_text(strip=True).upper().split()
@@ -52,13 +53,15 @@ def parse_month_year(html):
             return month, year
     return datetime.now().month, datetime.now().year
 
+
 def parse_calendar(html):
     soup = BeautifulSoup(html, 'html.parser')
+    month, year = parse_month_year(soup)
     activities = []
 
     for day_row in soup.find_all('tr', class_=['dag', 'son', 'idag', 'innanidag']):
-        # NOTE: The site's HTML has unclosed <td> tags, so BS4 nests them.
-        # Only 2 top-level TDs exist: [empty, date+weekday+content nested inside].
+        # HTML has unclosed <td> tags — BS4 nests them.
+        # Only 2 top-level TDs: [empty, date+everything nested inside].
         tds = day_row.find_all('td', recursive=False)
 
         day_num = ""
@@ -70,44 +73,50 @@ def parse_calendar(html):
                 b = td.find('b')
                 if b:
                     day_num = b.text.strip()
-                # Weekday is in a nested <font> tag (inside nested <td width="5%">)
                 font = td.find('font')
                 if font:
                     wday = font.get_text(strip=True)
                     if wday and len(wday) <= 4 and wday.isalpha():
                         weekday = wday
 
-        # Find inner activity table
+        if not day_num:
+            continue
+
+        # Build ISO date string for this day
+        try:
+            iso_date = date(year, month, int(day_num)).isoformat()
+        except ValueError:
+            iso_date = ""
+
         inner_table = day_row.find('table', {'border': '0', 'cellspacing': '0', 'cellpadding': '0'})
         if not inner_table:
             continue
 
-        # Must use recursive=True — malformed HTML nests all <tr> elements inside each other.
-        # Each TR has 2 top-level cells: [time+calbox, team+description]
+        # recursive=True needed — malformed HTML nests all <tr> inside each other
         for act_row in inner_table.find_all('tr'):
-            activity = parse_activity(act_row, day_num, weekday)
+            activity = parse_activity(act_row, day_num, weekday, iso_date)
             if activity:
                 activities.append(activity)
 
-    return activities
+    return month, year, activities
 
 
-def parse_activity(row, day, weekday):
-    # Each activity row has exactly 2 top-level cells:
-    #   cells[0]: time span + calBox div (activity type)
-    #   cells[1]: team link + description/location link
+def parse_activity(row, day, weekday, iso_date):
+    # Each activity row has 2 top-level cells:
+    #   cells[0]: time + calBox (activity type)
+    #   cells[1]: team link + description/location
     cells = row.find_all('td', recursive=False)
     if len(cells) < 2:
         return None
 
-    # --- Time (cells[0]) ---
+    # Time
     time_cell = cells[0]
     span = time_cell.find('span')
     time_text = span.get_text(strip=True) if span else time_cell.get_text(strip=True)
     time_match = re.search(r'(\d{1,2}:\d{2})', time_text)
     time_str = time_match.group(1) if time_match else ""
 
-    # --- Activity type (calBox in cells[0]) ---
+    # Activity type
     act_type = "Övrigt"
     calbox = time_cell.find('div', class_=re.compile(r'calBox[123]'))
     if calbox:
@@ -116,7 +125,7 @@ def parse_activity(row, day, weekday):
                 act_type = ACTIVITY_TYPES[c]
                 break
 
-    # --- Team (cells[1]) ---
+    # Team
     content = cells[1]
     team = None
     team_id = None
@@ -128,17 +137,15 @@ def parse_activity(row, day, weekday):
             team_id = match.group(1)
             team = TEAM_IDS.get(team_id, link.text.strip())
         else:
-            # Empty ID (e.g. Fotbollsskolan born 2019 not yet in TEAM_IDS)
             team = link.text.strip()
         break
 
     if not team:
         return None
 
-    # --- Description and location (<a class="kal">) ---
+    # Description and location
     description = ""
     location = ""
-
     kal_link = content.find('a', class_='kal')
     if kal_link:
         text = kal_link.get_text(strip=True)
@@ -150,7 +157,6 @@ def parse_activity(row, day, weekday):
             else:
                 description = text
 
-    # Fallback: derive location from description text
     if not location and description:
         if 'hemma' in description.lower():
             location = "Kronängs Arena"
@@ -160,6 +166,7 @@ def parse_activity(row, day, weekday):
                 location = m.group(1).strip()
 
     return {
+        "date": iso_date,   # "YYYY-MM-DD" — used by JS for past/future check
         "day": day,
         "weekday": weekday,
         "time": time_str,
@@ -167,7 +174,7 @@ def parse_activity(row, day, weekday):
         "team_id": team_id,
         "type": act_type,
         "description": description,
-        "location": location
+        "location": location,
     }
 
 
@@ -189,9 +196,8 @@ def save_data(activities, month, year):
 def main():
     print("Fetching Kronängs IF calendar...")
     html = fetch_calendar()
-    month, year = parse_month_year(html)
+    month, year, activities = parse_calendar(html)
     print(f"Calendar month: {month}/{year}")
-    activities = parse_calendar(html)
     save_data(activities, month, year)
     print(f"Done! Found {len(activities)} activities")
 

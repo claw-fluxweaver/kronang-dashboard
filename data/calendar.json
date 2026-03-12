@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-03-12T09:42:08.681345",
+  "last_updated": "2026-03-12T09:52:58.895489",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 3,
   "year": 2026,
   "activity_count": 134,
   "activities": [
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "08:45",
@@ -16,6 +17,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "09:00",
@@ -26,6 +28,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "10:00",
@@ -36,6 +39,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "10:00",
@@ -46,6 +50,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "11:00",
@@ -56,6 +61,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "11:15",
@@ -66,6 +72,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "12:30",
@@ -76,6 +83,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "12:30",
@@ -86,6 +94,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "14:00",
@@ -96,6 +105,7 @@
       "location": "Töreboda Sim- och idrottshall(Pojkar Futsal Div 2 2025/2026)"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "14:00",
@@ -106,6 +116,7 @@
       "location": "Kronängs Arena()"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "16:00",
@@ -116,6 +127,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-01",
       "day": "01",
       "weekday": "sön",
       "time": "18:00",
@@ -126,6 +138,7 @@
       "location": "Poolhouse"
     },
     {
+      "date": "2026-03-02",
       "day": "02",
       "weekday": "mån",
       "time": "17:30",
@@ -136,6 +149,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-02",
       "day": "02",
       "weekday": "mån",
       "time": "17:30",
@@ -146,6 +160,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-02",
       "day": "02",
       "weekday": "mån",
       "time": "18:30",
@@ -156,6 +171,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-03",
       "day": "03",
       "weekday": "tis",
       "time": "17:30",
@@ -166,6 +182,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-03",
       "day": "03",
       "weekday": "tis",
       "time": "17:30",
@@ -176,6 +193,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-03",
       "day": "03",
       "weekday": "tis",
       "time": "18:30",
@@ -186,6 +204,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-03",
       "day": "03",
       "weekday": "tis",
       "time": "18:30",
@@ -196,6 +215,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-04",
       "day": "04",
       "weekday": "ons",
       "time": "17:30",
@@ -206,6 +226,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-04",
       "day": "04",
       "weekday": "ons",
       "time": "17:30",
@@ -216,6 +237,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-04",
       "day": "04",
       "weekday": "ons",
       "time": "17:30",
@@ -226,6 +248,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-04",
       "day": "04",
       "weekday": "ons",
       "time": "17:30",
@@ -236,6 +259,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-04",
       "day": "04",
       "weekday": "ons",
       "time": "17:30",
@@ -246,6 +270,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-04",
       "day": "04",
       "weekday": "ons",
       "time": "18:30",
@@ -256,6 +281,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-05",
       "day": "05",
       "weekday": "tor",
       "time": "17:30",
@@ -266,6 +292,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-05",
       "day": "05",
       "weekday": "tor",
       "time": "17:30",
@@ -276,6 +303,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-05",
       "day": "05",
       "weekday": "tor",
       "time": "18:30",
@@ -286,6 +314,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-05",
       "day": "05",
       "weekday": "tor",
       "time": "19:00",
@@ -296,6 +325,7 @@
       "location": "Xpuls Poolhouse"
     },
     {
+      "date": "2026-03-06",
       "day": "06",
       "weekday": "fre",
       "time": "19:30",
@@ -306,6 +336,7 @@
       "location": "Kronängs Arena A-plan()"
     },
     {
+      "date": "2026-03-07",
       "day": "07",
       "weekday": "lör",
       "time": "08:00",
@@ -316,6 +347,7 @@
       "location": "Rydahallen"
     },
     {
+      "date": "2026-03-07",
       "day": "07",
       "weekday": "lör",
       "time": "11:15",
@@ -326,6 +358,7 @@
       "location": "Björkvallen konstgräs, Vårgårda(Damer DM - Grupp 5)"
     },
     {
+      "date": "2026-03-07",
       "day": "07",
       "weekday": "lör",
       "time": "11:15",
@@ -336,6 +369,7 @@
       "location": "Björkvallen konstgräs, Vårgårda(Damer DM - Grupp 5 VEO)"
     },
     {
+      "date": "2026-03-07",
       "day": "07",
       "weekday": "lör",
       "time": "14:00",
@@ -346,6 +380,7 @@
       "location": "Ängshallen()"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "08:00",
@@ -356,6 +391,7 @@
       "location": "Rydahallen"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "08:45",
@@ -366,6 +402,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "09:00",
@@ -376,6 +413,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "10:00",
@@ -386,6 +424,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "10:00",
@@ -396,6 +435,7 @@
       "location": "Borås Arena 2"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "11:15",
@@ -406,6 +446,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "12:30",
@@ -416,6 +457,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "12:30",
@@ -426,6 +468,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "13:00",
@@ -436,6 +479,7 @@
       "location": "Kronängs Arena B-plan()"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "15:00",
@@ -446,6 +490,7 @@
       "location": "Kronängs Arena A-plan()"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "16:00",
@@ -456,6 +501,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-08",
       "day": "08",
       "weekday": "sön",
       "time": "17:00",
@@ -466,6 +512,7 @@
       "location": "Fristad()"
     },
     {
+      "date": "2026-03-09",
       "day": "09",
       "weekday": "mån",
       "time": "18:30",
@@ -476,6 +523,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-10",
       "day": "10",
       "weekday": "tis",
       "time": "17:30",
@@ -486,6 +534,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-10",
       "day": "10",
       "weekday": "tis",
       "time": "17:30",
@@ -496,6 +545,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-10",
       "day": "10",
       "weekday": "tis",
       "time": "17:30",
@@ -506,6 +556,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-10",
       "day": "10",
       "weekday": "tis",
       "time": "17:30",
@@ -516,6 +567,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-10",
       "day": "10",
       "weekday": "tis",
       "time": "18:30",
@@ -526,6 +578,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-10",
       "day": "10",
       "weekday": "tis",
       "time": "18:30",
@@ -536,6 +589,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-11",
       "day": "11",
       "weekday": "ons",
       "time": "17:30",
@@ -546,6 +600,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-11",
       "day": "11",
       "weekday": "ons",
       "time": "17:30",
@@ -556,6 +611,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-11",
       "day": "11",
       "weekday": "ons",
       "time": "17:30",
@@ -566,6 +622,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-11",
       "day": "11",
       "weekday": "ons",
       "time": "18:30",
@@ -576,6 +633,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-12",
       "day": "12",
       "weekday": "tor",
       "time": "17:30",
@@ -586,6 +644,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-12",
       "day": "12",
       "weekday": "tor",
       "time": "17:30",
@@ -596,6 +655,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-12",
       "day": "12",
       "weekday": "tor",
       "time": "18:30",
@@ -606,6 +666,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-12",
       "day": "12",
       "weekday": "tor",
       "time": "19:00",
@@ -616,6 +677,7 @@
       "location": "Xpuls Poolhouse"
     },
     {
+      "date": "2026-03-14",
       "day": "14",
       "weekday": "lör",
       "time": "12:00",
@@ -626,6 +688,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-14",
       "day": "14",
       "weekday": "lör",
       "time": "12:30",
@@ -636,6 +699,7 @@
       "location": "Ramnavallen()"
     },
     {
+      "date": "2026-03-14",
       "day": "14",
       "weekday": "lör",
       "time": "15:00",
@@ -646,6 +710,7 @@
       "location": "Annan()"
     },
     {
+      "date": "2026-03-14",
       "day": "14",
       "weekday": "lör",
       "time": "15:30",
@@ -656,6 +721,7 @@
       "location": "Simonsland"
     },
     {
+      "date": "2026-03-14",
       "day": "14",
       "weekday": "lör",
       "time": "15:30",
@@ -666,6 +732,7 @@
       "location": "Simonsland"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "00:00",
@@ -676,6 +743,7 @@
       "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5 VEO)"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "08:45",
@@ -686,6 +754,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "09:00",
@@ -696,6 +765,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "10:00",
@@ -706,6 +776,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "10:00",
@@ -716,6 +787,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "11:00",
@@ -726,6 +798,7 @@
       "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5)"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "11:00",
@@ -736,6 +809,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "11:15",
@@ -746,6 +820,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "12:30",
@@ -756,6 +831,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "12:30",
@@ -766,6 +842,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "14:00",
@@ -776,6 +853,7 @@
       "location": "Kronängs Arena()"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "15:00",
@@ -786,6 +864,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-15",
       "day": "15",
       "weekday": "sön",
       "time": "16:00",
@@ -796,6 +875,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-16",
       "day": "16",
       "weekday": "mån",
       "time": "18:30",
@@ -806,6 +886,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-17",
       "day": "17",
       "weekday": "tis",
       "time": "17:30",
@@ -816,6 +897,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-17",
       "day": "17",
       "weekday": "tis",
       "time": "17:30",
@@ -826,6 +908,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-17",
       "day": "17",
       "weekday": "tis",
       "time": "18:30",
@@ -836,6 +919,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-17",
       "day": "17",
       "weekday": "tis",
       "time": "18:30",
@@ -846,6 +930,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-18",
       "day": "18",
       "weekday": "ons",
       "time": "17:30",
@@ -856,6 +941,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-18",
       "day": "18",
       "weekday": "ons",
       "time": "17:30",
@@ -866,6 +952,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-18",
       "day": "18",
       "weekday": "ons",
       "time": "17:30",
@@ -876,6 +963,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-18",
       "day": "18",
       "weekday": "ons",
       "time": "18:30",
@@ -886,6 +974,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-19",
       "day": "19",
       "weekday": "tor",
       "time": "17:30",
@@ -896,6 +985,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-19",
       "day": "19",
       "weekday": "tor",
       "time": "17:30",
@@ -906,6 +996,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-19",
       "day": "19",
       "weekday": "tor",
       "time": "18:30",
@@ -916,6 +1007,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-19",
       "day": "19",
       "weekday": "tor",
       "time": "19:00",
@@ -926,6 +1018,7 @@
       "location": "Xpuls Poolhouse"
     },
     {
+      "date": "2026-03-20",
       "day": "20",
       "weekday": "fre",
       "time": "16:00",
@@ -936,6 +1029,7 @@
       "location": "Örebro"
     },
     {
+      "date": "2026-03-20",
       "day": "20",
       "weekday": "fre",
       "time": "19:00",
@@ -946,6 +1040,7 @@
       "location": "Kronängs Arena A-plan()"
     },
     {
+      "date": "2026-03-21",
       "day": "21",
       "weekday": "lör",
       "time": "00:00",
@@ -956,6 +1051,7 @@
       "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5)"
     },
     {
+      "date": "2026-03-21",
       "day": "21",
       "weekday": "lör",
       "time": "00:00",
@@ -966,6 +1062,7 @@
       "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5 VEO)"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "09:00",
@@ -976,6 +1073,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "10:00",
@@ -986,6 +1084,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "10:00",
@@ -996,6 +1095,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "11:00",
@@ -1006,6 +1106,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "11:00",
@@ -1016,6 +1117,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "11:15",
@@ -1026,6 +1128,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "12:30",
@@ -1036,6 +1139,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
       "time": "15:00",
@@ -1046,6 +1150,7 @@
       "location": "Kronängs Arena()"
     },
     {
+      "date": "2026-03-23",
       "day": "23",
       "weekday": "mån",
       "time": "18:30",
@@ -1056,6 +1161,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-24",
       "day": "24",
       "weekday": "tis",
       "time": "17:30",
@@ -1066,6 +1172,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-24",
       "day": "24",
       "weekday": "tis",
       "time": "17:30",
@@ -1076,6 +1183,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-24",
       "day": "24",
       "weekday": "tis",
       "time": "18:30",
@@ -1086,6 +1194,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-24",
       "day": "24",
       "weekday": "tis",
       "time": "18:30",
@@ -1096,6 +1205,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-25",
       "day": "25",
       "weekday": "ons",
       "time": "17:30",
@@ -1106,6 +1216,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-25",
       "day": "25",
       "weekday": "ons",
       "time": "17:30",
@@ -1116,6 +1227,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-25",
       "day": "25",
       "weekday": "ons",
       "time": "17:30",
@@ -1126,6 +1238,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-25",
       "day": "25",
       "weekday": "ons",
       "time": "18:30",
@@ -1136,6 +1249,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-26",
       "day": "26",
       "weekday": "tor",
       "time": "17:30",
@@ -1146,6 +1260,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-26",
       "day": "26",
       "weekday": "tor",
       "time": "17:30",
@@ -1156,6 +1271,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-26",
       "day": "26",
       "weekday": "tor",
       "time": "18:30",
@@ -1166,6 +1282,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-27",
       "day": "27",
       "weekday": "fre",
       "time": "18:00",
@@ -1176,6 +1293,7 @@
       "location": "Kransmossen()"
     },
     {
+      "date": "2026-03-28",
       "day": "28",
       "weekday": "lör",
       "time": "08:00",
@@ -1186,6 +1304,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "09:00",
@@ -1196,6 +1315,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "10:00",
@@ -1206,6 +1326,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "10:00",
@@ -1216,6 +1337,7 @@
       "location": "Fredriksborgshallen"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "11:00",
@@ -1226,6 +1348,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "11:00",
@@ -1236,6 +1359,7 @@
       "location": "Brämhults IP()"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "12:00",
@@ -1246,6 +1370,7 @@
       "location": "Skene"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "12:30",
@@ -1256,6 +1381,7 @@
       "location": "Kristinebergskolan"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "12:30",
@@ -1266,6 +1392,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "13:00",
@@ -1276,6 +1403,7 @@
       "location": "Idrottsgården, Sjömarken()"
     },
     {
+      "date": "2026-03-29",
       "day": "29",
       "weekday": "sön",
       "time": "14:00",
@@ -1286,6 +1414,7 @@
       "location": "Annan()"
     },
     {
+      "date": "2026-03-30",
       "day": "30",
       "weekday": "mån",
       "time": "18:30",
@@ -1296,6 +1425,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-31",
       "day": "31",
       "weekday": "tis",
       "time": "17:00",
@@ -1306,6 +1436,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-31",
       "day": "31",
       "weekday": "tis",
       "time": "17:30",
@@ -1316,6 +1447,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-31",
       "day": "31",
       "weekday": "tis",
       "time": "17:30",
@@ -1326,6 +1458,7 @@
       "location": "Kronängs Arena A-plan"
     },
     {
+      "date": "2026-03-31",
       "day": "31",
       "weekday": "tis",
       "time": "18:30",
@@ -1336,6 +1469,7 @@
       "location": "Kronängs Arena"
     },
     {
+      "date": "2026-03-31",
       "day": "31",
       "weekday": "tis",
       "time": "18:30",
