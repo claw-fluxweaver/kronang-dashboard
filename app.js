@@ -52,10 +52,7 @@ async function loadData() {
         // Populate team filter
         populateTeamFilter();
         
-        // Update stats
-        updateStats();
-        
-        // Render activities
+        // Render activities (also updates stats)
         filterActivities();
         
     } catch (error) {
@@ -93,10 +90,10 @@ function populateTeamFilter() {
     }
 }
 
-function updateStats() {
-    const total = allActivities.length;
-    const matches = allActivities.filter(a => a.type === 'Match').length;
-    const training = allActivities.filter(a => a.type === 'Träning').length;
+function updateStats(activities) {
+    const total = activities.length;
+    const matches = activities.filter(a => a.type === 'Match').length;
+    const training = activities.filter(a => a.type === 'Träning').length;
     
     document.getElementById('total-activities').textContent = total;
     document.getElementById('match-count').textContent = matches;
@@ -117,6 +114,7 @@ function filterActivities() {
         filtered = filtered.filter(a => a.type === typeFilter);
     }
     
+    updateStats(filtered);
     renderActivities(filtered);
 }
 
