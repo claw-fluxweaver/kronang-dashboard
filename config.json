@@ -1,0 +1,34 @@
+{
+  "title": "Kronängs IF",
+  "pages": [
+    {
+      "id": "calendar",
+      "title": "Kalender",
+      "icon": "📅",
+      "file": "calendar.html"
+    },
+    {
+      "id": "standings",
+      "title": "Tabell",
+      "icon": "📊",
+      "file": "standings.html"
+    }
+  ],
+  "pageGroups": [
+    {
+      "label": "Standard",
+      "pages": ["calendar"],
+      "displayMode": "single"
+    },
+    {
+      "label": "Tabell + Kalender",
+      "pages": ["standings", "calendar"],
+      "displayMode": "sideBySide"
+    }
+  ],
+  "rotation": {
+    "enabled": true,
+    "intervalSeconds": 30,
+    "groups": ["standard", "standings"]
+  }
+}
