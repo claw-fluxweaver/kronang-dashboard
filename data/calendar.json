@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-17T08:06:32.030356",
+  "last_updated": "2026-03-18T08:04:03.617468",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 3,
   "year": 2026,
-  "activity_count": 141,
+  "activity_count": 142,
   "activities": [
     {
       "date": "2026-03-01",
@@ -156,8 +156,8 @@
       "time": "17:30",
       "team": "P2012",
       "team_id": "281528",
-      "type": "Övrigt",
-      "description": "Föräldramöte P2012",
+      "type": "Träning",
+      "description": "ExtraTräning",
       "location": "Kronängs Arena",
       "weather": null
     },
@@ -168,8 +168,8 @@
       "time": "17:30",
       "team": "P2012",
       "team_id": "281528",
-      "type": "Träning",
-      "description": "ExtraTräning",
+      "type": "Övrigt",
+      "description": "Föräldramöte P2012",
       "location": "Kronängs Arena",
       "weather": null
     },
@@ -975,11 +975,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 8.0
-      }
+      "weather": null
     },
     {
       "date": "2026-03-17",
@@ -991,11 +987,7 @@
       "type": "Träning",
       "description": "Träning utomhus + löpning",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 8.0
-      }
+      "weather": null
     },
     {
       "date": "2026-03-17",
@@ -1007,11 +999,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 6.8
-      }
+      "weather": null
     },
     {
       "date": "2026-03-17",
@@ -1023,11 +1011,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 6.8
-      }
+      "weather": null
     },
     {
       "date": "2026-03-18",
@@ -1040,9 +1024,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 8.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 8.0
       }
     },
     {
@@ -1056,9 +1040,9 @@
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 8.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 8.0
       }
     },
     {
@@ -1072,9 +1056,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 8.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 8.0
       }
     },
     {
@@ -1090,7 +1074,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 7.8
+        "temp": 7.6
       }
     },
     {
@@ -1104,9 +1088,9 @@
       "description": "Träning utomhus",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 8.7
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 7.6
       }
     },
     {
@@ -1120,9 +1104,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 8.7
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 7.6
       }
     },
     {
@@ -1136,9 +1120,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 8.7
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 7.6
       }
     },
     {
@@ -1152,9 +1136,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 6.8
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 6.4
       }
     },
     {
@@ -1168,9 +1152,9 @@
       "description": "X-Fit",
       "location": "Xpuls Poolhouse",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 4.8
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 4.6
       }
     },
     {
@@ -1184,9 +1168,9 @@
       "description": "Karlslundscupen 20-22 Mars",
       "location": "Örebro",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 11.0
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 10.1
       }
     },
     {
@@ -1202,7 +1186,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 4.8
+        "temp": 4.1
       }
     },
     {
@@ -1216,9 +1200,9 @@
       "description": "Vartofta SK hemma",
       "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5)",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 0.8
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 0.0
       }
     },
     {
@@ -1232,9 +1216,9 @@
       "description": "Vartofta SK hemma",
       "location": "Kronäng Arena konstgräs 1(Damer DM - Grupp 5 VEO)",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 0.8
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 0.0
       }
     },
     {
@@ -1248,9 +1232,25 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 3.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 2.7
+      }
+    },
+    {
+      "date": "2026-03-22",
+      "day": "22",
+      "weekday": "sön",
+      "time": "09:15",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Övrigt",
+      "description": "Träningsmatch Sjömarken",
+      "location": "Sjömarkens IF - idrottsgården",
+      "weather": {
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 2.7
       }
     },
     {
@@ -1264,25 +1264,25 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 5.8
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 4.3
       }
     },
     {
       "date": "2026-03-22",
       "day": "22",
       "weekday": "sön",
-      "time": "10:00",
+      "time": "10:45",
       "team": "P 2015",
       "team_id": "56158",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Fredriksborgshallen",
+      "type": "Övrigt",
+      "description": "Träningsmatch Sjömarken!",
+      "location": "Sjömarkens IF idrottsgården",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 5.8
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 4.3
       }
     },
     {
@@ -1296,9 +1296,9 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 7.0
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 6.0
       }
     },
     {
@@ -1312,9 +1312,9 @@
       "description": "Träningsmatcher mot Bergdalens IK",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 7.0
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 6.0
       }
     },
     {
@@ -1328,9 +1328,9 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 7.8
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 7.6
       }
     },
     {
@@ -1344,9 +1344,9 @@
       "description": "Mariedals IK hemma",
       "location": "Kronängs Arena()",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.8
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 8.4
       }
     },
     {
@@ -1360,9 +1360,9 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.0
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 7.7
       }
     },
     {
@@ -1378,7 +1378,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 7.3
+        "temp": 7.2
       }
     },
     {
@@ -1394,7 +1394,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 6.8
+        "temp": 6.5
       }
     },
     {
@@ -1410,7 +1410,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 6.8
+        "temp": 6.5
       }
     },
     {
@@ -1423,7 +1423,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": null
+      "weather": {
+        "icon": "❄️",
+        "desc": "Snö",
+        "temp": 2.7
+      }
     },
     {
       "date": "2026-03-24",
@@ -1435,7 +1439,11 @@
       "type": "Träning",
       "description": "Träning utomhus",
       "location": "Kronängs Arena A-plan",
-      "weather": null
+      "weather": {
+        "icon": "❄️",
+        "desc": "Snö",
+        "temp": 2.7
+      }
     },
     {
       "date": "2026-03-24",
@@ -1447,7 +1455,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": null
+      "weather": {
+        "icon": "❄️",
+        "desc": "Snö",
+        "temp": 1.7
+      }
     },
     {
       "date": "2026-03-24",
@@ -1459,7 +1471,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": null
+      "weather": {
+        "icon": "❄️",
+        "desc": "Snö",
+        "temp": 1.7
+      }
     },
     {
       "date": "2026-03-25",
