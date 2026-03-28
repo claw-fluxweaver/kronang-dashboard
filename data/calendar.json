@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T08:08:45.823188",
+  "last_updated": "2026-03-28T07:56:47.666203",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 3,
   "year": 2026,
@@ -1491,11 +1491,7 @@
       "type": "Träning",
       "description": "Internmatch",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 6.7
-      }
+      "weather": null
     },
     {
       "date": "2026-03-27",
@@ -1507,11 +1503,7 @@
       "type": "Match",
       "description": "Mariedals IK hemma",
       "location": "Kransmossen()",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 6.7
-      }
+      "weather": null
     },
     {
       "date": "2026-03-28",
@@ -1526,7 +1518,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 3.3
+        "temp": 2.2
       }
     },
     {
@@ -1540,9 +1532,9 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 3.4
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 3.8
       }
     },
     {
@@ -1556,9 +1548,9 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 4.2
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 5.0
       }
     },
     {
@@ -1572,9 +1564,9 @@
       "description": "Träning utomhus",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 4.2
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 5.0
       }
     },
     {
@@ -1588,9 +1580,9 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 4.8
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 6.2
       }
     },
     {
@@ -1604,9 +1596,9 @@
       "description": "Brämhults IK borta",
       "location": "Brämhults IP()",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 4.8
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 6.2
       }
     },
     {
@@ -1620,9 +1612,9 @@
       "description": "Match",
       "location": "Skene",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 5.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 7.0
       }
     },
     {
@@ -1636,9 +1628,9 @@
       "description": "Träning",
       "location": "Kristinebergskolan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 5.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 7.0
       }
     },
     {
@@ -1652,9 +1644,9 @@
       "description": "Sjömarkens If P.14 borta",
       "location": "Idrottsgården, Sjömarken()",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 6.8
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 7.0
       }
     },
     {
@@ -1670,7 +1662,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 7.2
+        "temp": 6.6
       }
     },
     {
@@ -1684,9 +1676,9 @@
       "description": "Träningsmatch",
       "location": "Dalsjöfors",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 6.9
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 6.6
       }
     },
     {
@@ -1702,7 +1694,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 6.5
+        "temp": 5.8
       }
     },
     {
@@ -1718,7 +1710,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 6.5
+        "temp": 5.8
       }
     },
     {
@@ -1734,7 +1726,7 @@
       "weather": {
         "icon": "🌤️",
         "desc": "Mestadels klart",
-        "temp": 3.8
+        "temp": 4.2
       }
     },
     {
@@ -1748,9 +1740,9 @@
       "description": "Föranmälan Laxacupen 22/7-26/7",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.1
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 9.8
       }
     },
     {
@@ -1764,9 +1756,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.1
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 9.8
       }
     },
     {
@@ -1780,9 +1772,9 @@
       "description": "Em-kval U21 Sverige-Italien Borås Arena",
       "location": "Borås arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.1
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 9.8
       }
     },
     {
@@ -1796,9 +1788,9 @@
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.1
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 9.8
       }
     },
     {
@@ -1812,9 +1804,9 @@
       "description": "Träning utomhus + löpning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.1
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 9.8
       }
     },
     {
@@ -1828,9 +1820,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 7.1
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 9.8
       }
     },
     {
@@ -1844,9 +1836,9 @@
       "description": "Föräldramöte P.14",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 5.4
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 7.9
       }
     },
     {
@@ -1860,9 +1852,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 5.4
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 7.9
       }
     },
     {
@@ -1876,9 +1868,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 5.4
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 7.9
       }
     }
   ]
