@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-03T07:00:14.434343",
+  "last_updated": "2026-04-04T06:51:58.872366",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 4,
   "year": 2026,
-  "activity_count": 107,
+  "activity_count": 111,
   "activities": [
     {
       "date": "2026-04-01",
@@ -150,7 +150,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 4.1
+        "temp": 5.2
       }
     },
     {
@@ -166,7 +166,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Regn",
-        "temp": 4.8
+        "temp": 6.5
       }
     },
     {
@@ -182,7 +182,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Regn",
-        "temp": 6.2
+        "temp": 7.3
       }
     },
     {
@@ -212,9 +212,9 @@
       "description": "Södra Ving hemma",
       "location": "Annan()",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 4.4
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 8.2
       }
     },
     {
@@ -228,9 +228,9 @@
       "description": "IFK Fjärås (Utv.) borta",
       "location": "Ögärdets IP B(Träningsmatcher Div. 3 damer)",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 8.9
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 10.4
       }
     },
     {
@@ -244,9 +244,25 @@
       "description": "Fristad GoIF borta",
       "location": "Hedens IP, Konstgräs()",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 8.9
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 10.4
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "day": "06",
+      "weekday": "mån",
+      "time": "18:30",
+      "team": "Herr",
+      "team_id": "38937",
+      "type": "Träning",
+      "description": "Träning+OBLIGATORISKT MÖTE",
+      "location": "Kronängs Arena A-plan",
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 9.8
       }
     },
     {
@@ -278,7 +294,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 8.9
+        "temp": 9.6
       }
     },
     {
@@ -294,7 +310,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 8.9
+        "temp": 9.6
       }
     },
     {
@@ -310,7 +326,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 8.9
+        "temp": 9.6
       }
     },
     {
@@ -326,7 +342,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 7.3
+        "temp": 8.3
       }
     },
     {
@@ -342,7 +358,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 7.3
+        "temp": 8.3
       }
     },
     {
@@ -358,7 +374,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 8.4
+        "temp": 11.8
       }
     },
     {
@@ -374,7 +390,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 8.4
+        "temp": 11.8
       }
     },
     {
@@ -390,7 +406,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 8.4
+        "temp": 11.8
       }
     },
     {
@@ -406,7 +422,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 7.7
+        "temp": 10.4
       }
     },
     {
@@ -422,7 +438,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 6.7
+        "temp": 9.6
       }
     },
     {
@@ -438,7 +454,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 6.7
+        "temp": 9.6
       }
     },
     {
@@ -454,7 +470,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 5.6
+        "temp": 8.4
       }
     },
     {
@@ -467,7 +483,11 @@
       "type": "Match",
       "description": "Kabel 80 hemma",
       "location": "Kronängs Arena A-plan()",
-      "weather": null
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 6.2
+      }
     },
     {
       "date": "2026-04-10",
@@ -479,7 +499,11 @@
       "type": "Match",
       "description": "Kabel 80 hemma",
       "location": "Kronängs Arena A-plan()",
-      "weather": null
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 6.2
+      }
     },
     {
       "date": "2026-04-11",
@@ -599,6 +623,18 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronäng Arena C-Plan",
+      "weather": null
+    },
+    {
+      "date": "2026-04-13",
+      "day": "13",
+      "weekday": "mån",
+      "time": "19:00",
+      "team": "Herr",
+      "team_id": "38937",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena A-plan",
       "weather": null
     },
     {
@@ -914,6 +950,18 @@
       "weather": null
     },
     {
+      "date": "2026-04-20",
+      "day": "20",
+      "weekday": "mån",
+      "time": "19:00",
+      "team": "Herr",
+      "team_id": "38937",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena A-plan",
+      "weather": null
+    },
+    {
       "date": "2026-04-21",
       "day": "21",
       "weekday": "tis",
@@ -1223,6 +1271,18 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronäng Arena C-Plan",
+      "weather": null
+    },
+    {
+      "date": "2026-04-27",
+      "day": "27",
+      "weekday": "mån",
+      "time": "19:00",
+      "team": "Herr",
+      "team_id": "38937",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena A-plan",
       "weather": null
     },
     {
