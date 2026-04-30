@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T08:04:19.431496",
+  "last_updated": "2026-04-30T08:08:27.928515",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 4,
   "year": 2026,
@@ -2139,11 +2139,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-04-29",
@@ -2155,11 +2151,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronäng Arena C-Plan",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-04-29",
@@ -2171,11 +2163,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-04-29",
@@ -2187,11 +2175,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-04-29",
@@ -2203,11 +2187,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 15.8
-      }
+      "weather": null
     },
     {
       "date": "2026-04-30",
@@ -2222,7 +2202,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 21.6
+        "temp": 21.5
       }
     },
     {
@@ -2302,7 +2282,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 19.8
+        "temp": 19.9
       }
     },
     {
@@ -2318,7 +2298,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 19.8
+        "temp": 19.9
       }
     }
   ]
