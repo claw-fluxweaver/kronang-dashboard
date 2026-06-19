@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T10:09:36.934418",
+  "last_updated": "2026-06-19T10:15:10.639916",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 6,
   "year": 2026,
@@ -1371,11 +1371,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 19.5
-      }
+      "weather": null
     },
     {
       "date": "2026-06-18",
@@ -1387,11 +1383,7 @@
       "type": "Träning",
       "description": "Träning på björkehov",
       "location": "Björkehov Södra Granbäcksvägen 9, 504 95 Borås",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 19.8
-      }
+      "weather": null
     },
     {
       "date": "2026-06-21",
@@ -1406,7 +1398,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 16.7
+        "temp": 19.4
       }
     },
     {
@@ -1422,7 +1414,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 20.1
+        "temp": 21.5
       }
     },
     {
@@ -1438,7 +1430,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 20.6
+        "temp": 22.4
       }
     },
     {
@@ -1454,7 +1446,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 19.7
+        "temp": 22.4
       }
     },
     {
@@ -1470,7 +1462,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 19.7
+        "temp": 20.8
       }
     },
     {
@@ -1484,25 +1476,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 19.2
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "day": "22",
-      "weekday": "mån",
-      "time": "19:00",
-      "team": "Herr",
-      "team_id": "38937",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 18.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 20.2
       }
     },
     {
@@ -1516,9 +1492,25 @@
       "description": "Träning utomhus",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 18.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 19.0
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "day": "22",
+      "weekday": "mån",
+      "time": "19:15",
+      "team": "Herr",
+      "team_id": "38937",
+      "type": "Träning",
+      "description": "Träning+Spelarråd kl.18:45",
+      "location": "Kronängs Arena A-plan",
+      "weather": {
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 19.0
       }
     },
     {
@@ -1532,9 +1524,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 17.9
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 22.1
       }
     },
     {
@@ -1548,9 +1540,9 @@
       "description": "Träning + Föräldrakamp",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 17.9
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 22.1
       }
     },
     {
@@ -1564,9 +1556,9 @@
       "description": "Bollebygds SK borta",
       "location": "Björnskogsvallen(Pojkar Div 5 Mark)",
       "weather": {
-        "icon": "⛈️",
-        "desc": "Åska",
-        "temp": 17.3
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 21.2
       }
     },
     {
@@ -1580,9 +1572,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛈️",
-        "desc": "Åska",
-        "temp": 17.3
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 21.2
       }
     },
     {
@@ -1596,9 +1588,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛈️",
-        "desc": "Åska med hagel",
-        "temp": 17.2
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 19.9
       }
     },
     {
@@ -1612,9 +1604,9 @@
       "description": "Hestrafors IF  hemma",
       "location": "Kronäng Arena konstgräs 1(Pojkar Div 4 Borås)",
       "weather": {
-        "icon": "⛈️",
-        "desc": "Åska med hagel",
-        "temp": 17.2
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 19.9
       }
     },
     {
@@ -1628,9 +1620,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.0
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 19.9
       }
     },
     {
@@ -1644,9 +1636,9 @@
       "description": "Toarpsalliansen borta",
       "location": "Gårdavallen A-plan(Damer, Div 3 Södra)",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.7
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 18.3
       }
     },
     {
@@ -1660,9 +1652,9 @@
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.7
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 18.3
       }
     },
     {
@@ -1676,9 +1668,9 @@
       "description": "Toarpsalliansen borta",
       "location": "Gårdavallen A-plan(Damer, Div 3 Södra)",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.7
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 18.3
       }
     },
     {
@@ -1691,7 +1683,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": null
+      "weather": {
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 22.6
+      }
     },
     {
       "date": "2026-06-25",
@@ -1703,7 +1699,11 @@
       "type": "Match",
       "description": "Töllsjö IF borta",
       "location": "Holmängen A-plan(Pojkar Div 8 Alingsås)",
-      "weather": null
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 22.2
+      }
     },
     {
       "date": "2026-06-25",
@@ -1715,7 +1715,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": null
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 22.2
+      }
     },
     {
       "date": "2026-06-25",
@@ -1727,7 +1731,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": null
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 21.6
+      }
     },
     {
       "date": "2026-06-25",
@@ -1739,7 +1747,11 @@
       "type": "Träning",
       "description": "Träning utomhus",
       "location": "Kronängs Arena",
-      "weather": null
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 21.6
+      }
     },
     {
       "date": "2026-06-25",
@@ -1751,7 +1763,11 @@
       "type": "Match",
       "description": "BK Spark hemma",
       "location": "Kronäng Arena konstgräs 1(Herrar, Div 5 Sydvästra)",
-      "weather": null
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 21.6
+      }
     },
     {
       "date": "2026-06-27",
