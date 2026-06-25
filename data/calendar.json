@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-24T08:55:27.327542",
+  "last_updated": "2026-06-25T08:50:18.235129",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 6,
   "year": 2026,
-  "activity_count": 142,
+  "activity_count": 144,
   "activities": [
     {
       "date": "2026-06-01",
@@ -96,6 +96,18 @@
       "time": "17:00",
       "team": "Fotbollsskolan födda 2018",
       "team_id": "520555",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-02",
+      "day": "02",
+      "weekday": "tis",
+      "time": "17:30",
+      "team": "Fotbollsskolan födda 2019",
+      "team_id": "0",
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
@@ -684,6 +696,18 @@
       "time": "08:00",
       "team": "Klubbstuga",
       "team_id": "181941",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-09",
+      "day": "09",
+      "weekday": "tis",
+      "time": "17:30",
+      "team": "Fotbollsskolan födda 2019",
+      "team_id": "0",
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
@@ -1563,11 +1587,7 @@
       "type": "Match",
       "description": "Toarpsalliansen borta",
       "location": "Gårdavallen A-plan(Damer, Div 3 Södra)",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 24.1
-      }
+      "weather": null
     },
     {
       "date": "2026-06-24",
@@ -1579,11 +1599,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 24.1
-      }
+      "weather": null
     },
     {
       "date": "2026-06-24",
@@ -1595,11 +1611,7 @@
       "type": "Match",
       "description": "Toarpsalliansen borta",
       "location": "Gårdavallen A-plan(Damer, Div 3 Södra)",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 24.1
-      }
+      "weather": null
     },
     {
       "date": "2026-06-25",
@@ -1614,7 +1626,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 28.5
+        "temp": 28.3
       }
     },
     {
@@ -1628,9 +1640,9 @@
       "description": "Töllsjö IF borta",
       "location": "Holmängen A-plan(Pojkar Div 8 Alingsås)",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 28.0
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 27.7
       }
     },
     {
@@ -1646,7 +1658,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 27.2
+        "temp": 27.1
       }
     },
     {
@@ -1662,7 +1674,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 27.2
+        "temp": 27.1
       }
     },
     {
@@ -1678,7 +1690,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 27.2
+        "temp": 27.1
       }
     },
     {
@@ -1692,9 +1704,9 @@
       "description": "IFK Örby TÄFF borta",
       "location": "Örby IP A(Pojkar Div 5 Mark)",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 27.6
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 29.0
       }
     },
     {
@@ -1708,9 +1720,9 @@
       "description": "Borås GIF U hemma",
       "location": "Kronäng Arena konstgräs 1(Herrar, Utveckling B Borås)",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 28.8
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 27.5
       }
     },
     {
@@ -1724,9 +1736,9 @@
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 22.2
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 18.8
       }
     },
     {
@@ -1740,9 +1752,9 @@
       "description": "Möte",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 20.6
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 19.9
       }
     },
     {
@@ -1756,9 +1768,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 20.6
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 19.9
       }
     }
   ]
