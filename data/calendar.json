@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T08:27:46.115381",
+  "last_updated": "2026-06-28T08:42:36.721563",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 6,
   "year": 2026,
@@ -1695,11 +1695,7 @@
       "type": "Match",
       "description": "IFK Örby TÄFF borta",
       "location": "Örby IP A(Pojkar Div 5 Mark)",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 26.2
-      }
+      "weather": null
     },
     {
       "date": "2026-06-28",
@@ -1712,9 +1708,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 28.0
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 27.0
       }
     },
     {
@@ -1728,9 +1724,9 @@
       "description": "Borås GIF U hemma",
       "location": "Kronängs Arena()",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 28.0
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 27.0
       }
     },
     {
@@ -1746,7 +1742,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 18.7
+        "temp": 21.4
       }
     },
     {
@@ -1762,7 +1758,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 19.5
+        "temp": 20.1
       }
     },
     {
@@ -1778,7 +1774,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 19.5
+        "temp": 20.1
       }
     }
   ]
