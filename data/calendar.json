@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-28T08:42:36.721563",
+  "last_updated": "2026-06-29T10:27:12.776979",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 6,
   "year": 2026,
-  "activity_count": 146,
+  "activity_count": 157,
   "activities": [
     {
       "date": "2026-06-01",
@@ -96,6 +96,18 @@
       "time": "17:00",
       "team": "Fotbollsskolan födda 2018",
       "team_id": "520555",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-02",
+      "day": "02",
+      "weekday": "tis",
+      "time": "17:00",
+      "team": "P2014",
+      "team_id": "324331",
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
@@ -327,6 +339,30 @@
       "type": "Match",
       "description": "Alingsås KIK U borta",
       "location": "Noltorpsvallen B Konstgräs(Damer, Div 3 Södra)",
+      "weather": null
+    },
+    {
+      "date": "2026-06-04",
+      "day": "04",
+      "weekday": "tor",
+      "time": "17:00",
+      "team": "Fotbollsskolan födda 2018",
+      "team_id": "520555",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-04",
+      "day": "04",
+      "weekday": "tor",
+      "time": "17:00",
+      "team": "P2014",
+      "team_id": "324331",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -778,6 +814,18 @@
       "day": "09",
       "weekday": "tis",
       "time": "17:30",
+      "team": "P2014",
+      "team_id": "324331",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-09",
+      "day": "09",
+      "weekday": "tis",
+      "time": "17:30",
       "team": "P2016",
       "team_id": "414417",
       "type": "Träning",
@@ -945,6 +993,18 @@
       "date": "2026-06-12",
       "day": "12",
       "weekday": "fre",
+      "time": "11:00",
+      "team": "P2014",
+      "team_id": "324331",
+      "type": "Träning",
+      "description": "Ö-bollen 2026",
+      "location": "Öckerö",
+      "weather": null
+    },
+    {
+      "date": "2026-06-12",
+      "day": "12",
+      "weekday": "fre",
       "time": "12:00",
       "team": "Klubbstuga",
       "team_id": "181941",
@@ -957,11 +1017,11 @@
       "date": "2026-06-12",
       "day": "12",
       "weekday": "fre",
-      "time": "15:00",
+      "time": "",
       "team": "P2014",
       "team_id": "324331",
-      "type": "Träning",
-      "description": "Ö-bollen 2026",
+      "type": "Övrigt",
+      "description": "Ö-bollen 2026 (bindande anmälan)",
       "location": "Öckerö",
       "weather": null
     },
@@ -969,12 +1029,12 @@
       "date": "2026-06-12",
       "day": "12",
       "weekday": "fre",
-      "time": "",
+      "time": "17:00",
       "team": "P2014",
       "team_id": "324331",
-      "type": "Övrigt",
-      "description": "Ö-bollen 2026 (bindande anmälan)",
-      "location": "Öckerö",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -1005,12 +1065,12 @@
       "date": "2026-06-13",
       "day": "13",
       "weekday": "lör",
-      "time": "00:00",
-      "team": "P2014",
-      "team_id": "324331",
-      "type": "Träning",
-      "description": "Ö-bollen 2026",
-      "location": "Öckerö",
+      "time": "11:00",
+      "team": "P2011",
+      "team_id": "260562",
+      "type": "Match",
+      "description": "Fristad/Sparsör/Borgstena Vit borta",
+      "location": "Trollevi A(Pojkar Div 5 Mark)",
       "weather": null
     },
     {
@@ -1018,11 +1078,11 @@
       "day": "13",
       "weekday": "lör",
       "time": "11:00",
-      "team": "P2011",
-      "team_id": "260562",
-      "type": "Match",
-      "description": "Fristad/Sparsör/Borgstena Vit borta",
-      "location": "Trollevi A(Pojkar Div 5 Mark)",
+      "team": "P2014",
+      "team_id": "324331",
+      "type": "Träning",
+      "description": "Ö-bollen 2026",
+      "location": "Öckerö",
       "weather": null
     },
     {
@@ -1050,6 +1110,18 @@
       "weather": null
     },
     {
+      "date": "2026-06-13",
+      "day": "13",
+      "weekday": "lör",
+      "time": "17:00",
+      "team": "P2014",
+      "team_id": "324331",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
       "date": "2026-06-14",
       "day": "14",
       "weekday": "sön",
@@ -1058,18 +1130,6 @@
       "team_id": "324331",
       "type": "Övrigt",
       "description": "Ö-bollen 2026 (bindande anmälan)",
-      "location": "Öckerö",
-      "weather": null
-    },
-    {
-      "date": "2026-06-14",
-      "day": "14",
-      "weekday": "sön",
-      "time": "00:00",
-      "team": "P2014",
-      "team_id": "324331",
-      "type": "Träning",
-      "description": "Ö-bollen 2026",
       "location": "Öckerö",
       "weather": null
     },
@@ -1095,6 +1155,18 @@
       "type": "Match",
       "description": "Fristads GoIF Grön borta",
       "location": "Hedens IP B-plan(Pojkar Div 8 Borås norr)",
+      "weather": null
+    },
+    {
+      "date": "2026-06-14",
+      "day": "14",
+      "weekday": "sön",
+      "time": "11:00",
+      "team": "P2014",
+      "team_id": "324331",
+      "type": "Träning",
+      "description": "Ö-bollen 2026",
+      "location": "Öckerö",
       "weather": null
     },
     {
@@ -1167,6 +1239,18 @@
       "type": "Match",
       "description": "Ubbhult/Hällingsjö/Hyssna borta",
       "location": "Ekåsvallen(Pojkar Div 11 Kinna)",
+      "weather": null
+    },
+    {
+      "date": "2026-06-14",
+      "day": "14",
+      "weekday": "sön",
+      "time": "17:00",
+      "team": "P2014",
+      "team_id": "324331",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -1486,6 +1570,18 @@
       "day": "22",
       "weekday": "mån",
       "time": "19:00",
+      "team": "Herr",
+      "team_id": "38937",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Almåshallen",
+      "weather": null
+    },
+    {
+      "date": "2026-06-22",
+      "day": "22",
+      "weekday": "mån",
+      "time": "19:00",
       "team": "P2011",
       "team_id": "260562",
       "type": "Träning",
@@ -1503,6 +1599,18 @@
       "type": "Träning",
       "description": "Träning+Spelarråd kl.18:45",
       "location": "Kronängs Arena A-plan",
+      "weather": null
+    },
+    {
+      "date": "2026-06-23",
+      "day": "23",
+      "weekday": "tis",
+      "time": "17:00",
+      "team": "Fotbollsskolan födda 2018",
+      "team_id": "520555",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -1629,6 +1737,18 @@
       "date": "2026-06-25",
       "day": "25",
       "weekday": "tor",
+      "time": "17:00",
+      "team": "Herr",
+      "team_id": "38937",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-25",
+      "day": "25",
+      "weekday": "tor",
       "time": "17:30",
       "team": "P2013",
       "team_id": "324307",
@@ -1707,11 +1827,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 27.0
-      }
+      "weather": null
     },
     {
       "date": "2026-06-28",
@@ -1723,11 +1839,7 @@
       "type": "Match",
       "description": "Borås GIF U hemma",
       "location": "Kronängs Arena()",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 27.0
-      }
+      "weather": null
     },
     {
       "date": "2026-06-29",
@@ -1742,7 +1854,23 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 21.4
+        "temp": 21.6
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "day": "29",
+      "weekday": "mån",
+      "time": "19:00",
+      "team": "P2011",
+      "team_id": "260562",
+      "type": "Träning",
+      "description": "Träning utomhus",
+      "location": "Kronängs Arena",
+      "weather": {
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 21.6
       }
     },
     {
@@ -1758,7 +1886,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 20.1
+        "temp": 21.1
       }
     },
     {
@@ -1774,7 +1902,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 20.1
+        "temp": 21.1
       }
     }
   ]
