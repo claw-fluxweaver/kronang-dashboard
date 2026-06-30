@@ -1,10 +1,22 @@
 {
-  "last_updated": "2026-06-29T10:27:12.776979",
+  "last_updated": "2026-06-30T08:58:52.182599",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 6,
   "year": 2026,
-  "activity_count": 157,
+  "activity_count": 169,
   "activities": [
+    {
+      "date": "2026-06-01",
+      "day": "01",
+      "weekday": "mån",
+      "time": "17:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
     {
       "date": "2026-06-01",
       "day": "01",
@@ -297,6 +309,18 @@
       "date": "2026-06-03",
       "day": "03",
       "weekday": "ons",
+      "time": "17:30",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-03",
+      "day": "03",
+      "weekday": "ons",
       "time": "19:00",
       "team": "Herr",
       "team_id": "38937",
@@ -405,6 +429,30 @@
       "date": "2026-06-04",
       "day": "04",
       "weekday": "tor",
+      "time": "17:30",
+      "team": "P2016",
+      "team_id": "414417",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Almåshallen",
+      "weather": null
+    },
+    {
+      "date": "2026-06-04",
+      "day": "04",
+      "weekday": "tor",
+      "time": "17:30",
+      "team": "P2016",
+      "team_id": "414417",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-04",
+      "day": "04",
+      "weekday": "tor",
       "time": "18:45",
       "team": "P2012",
       "team_id": "281528",
@@ -447,6 +495,30 @@
       "type": "Träning",
       "description": "Träning utomhus",
       "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-05",
+      "day": "05",
+      "weekday": "fre",
+      "time": "16:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Öckerö",
+      "weather": null
+    },
+    {
+      "date": "2026-06-05",
+      "day": "05",
+      "weekday": "fre",
+      "time": "17:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Öckerö",
       "weather": null
     },
     {
@@ -507,6 +579,30 @@
       "type": "Övrigt",
       "description": "Möte",
       "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-06",
+      "day": "06",
+      "weekday": "lör",
+      "time": "16:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Öckerö",
+      "weather": null
+    },
+    {
+      "date": "2026-06-06",
+      "day": "06",
+      "weekday": "lör",
+      "time": "17:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Öckerö",
       "weather": null
     },
     {
@@ -597,6 +693,30 @@
       "date": "2026-06-07",
       "day": "07",
       "weekday": "sön",
+      "time": "16:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Öckerö",
+      "weather": null
+    },
+    {
+      "date": "2026-06-07",
+      "day": "07",
+      "weekday": "sön",
+      "time": "17:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Öckerö",
+      "weather": null
+    },
+    {
+      "date": "2026-06-07",
+      "day": "07",
+      "weekday": "sön",
       "time": "18:00",
       "team": "F2013/2014",
       "team_id": "374981",
@@ -657,6 +777,18 @@
       "date": "2026-06-08",
       "day": "08",
       "weekday": "mån",
+      "time": "17:00",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-08",
+      "day": "08",
+      "weekday": "mån",
       "time": "17:30",
       "team": "F2013/2014",
       "team_id": "374981",
@@ -687,6 +819,18 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
+      "weather": null
+    },
+    {
+      "date": "2026-06-08",
+      "day": "08",
+      "weekday": "mån",
+      "time": "17:30",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -837,6 +981,18 @@
       "date": "2026-06-09",
       "day": "09",
       "weekday": "tis",
+      "time": "17:30",
+      "team": "P2016",
+      "team_id": "414417",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-09",
+      "day": "09",
+      "weekday": "tis",
       "time": "19:00",
       "team": "Dam",
       "team_id": "52695",
@@ -915,6 +1071,18 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
+      "weather": null
+    },
+    {
+      "date": "2026-06-10",
+      "day": "10",
+      "weekday": "ons",
+      "time": "17:30",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -1017,18 +1185,6 @@
       "date": "2026-06-12",
       "day": "12",
       "weekday": "fre",
-      "time": "",
-      "team": "P2014",
-      "team_id": "324331",
-      "type": "Övrigt",
-      "description": "Ö-bollen 2026 (bindande anmälan)",
-      "location": "Öckerö",
-      "weather": null
-    },
-    {
-      "date": "2026-06-12",
-      "day": "12",
-      "weekday": "fre",
       "time": "17:00",
       "team": "P2014",
       "team_id": "324331",
@@ -1047,18 +1203,6 @@
       "type": "Match",
       "description": "Sjömarkens IF Grön borta",
       "location": "Idrottsgården Konstgräsplan(Pojkar Div 13 Borås)",
-      "weather": null
-    },
-    {
-      "date": "2026-06-13",
-      "day": "13",
-      "weekday": "lör",
-      "time": "",
-      "team": "P2014",
-      "team_id": "324331",
-      "type": "Övrigt",
-      "description": "Ö-bollen 2026 (bindande anmälan)",
-      "location": "Öckerö",
       "weather": null
     },
     {
@@ -1119,18 +1263,6 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": null
-    },
-    {
-      "date": "2026-06-14",
-      "day": "14",
-      "weekday": "sön",
-      "time": "",
-      "team": "P2014",
-      "team_id": "324331",
-      "type": "Övrigt",
-      "description": "Ö-bollen 2026 (bindande anmälan)",
-      "location": "Öckerö",
       "weather": null
     },
     {
@@ -1371,6 +1503,18 @@
       "type": "Match",
       "description": "Holmalund city fc hemma",
       "location": "Kronängs Arena B-plan()",
+      "weather": null
+    },
+    {
+      "date": "2026-06-16",
+      "day": "16",
+      "weekday": "tis",
+      "time": "17:30",
+      "team": "P2016",
+      "team_id": "414417",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -1692,9 +1836,9 @@
       "time": "19:00",
       "team": "Dam",
       "team_id": "52695",
-      "type": "Match",
-      "description": "Toarpsalliansen borta",
-      "location": "Gårdavallen A-plan(Damer, Div 3 Södra)",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
       "weather": null
     },
     {
@@ -1704,9 +1848,9 @@
       "time": "19:00",
       "team": "Dam",
       "team_id": "52695",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
+      "type": "Match",
+      "description": "Toarpsalliansen borta",
+      "location": "Gårdavallen A-plan(Damer, Div 3 Södra)",
       "weather": null
     },
     {
@@ -1849,13 +1993,9 @@
       "team": "Herr",
       "team_id": "38937",
       "type": "Träning",
-      "description": "Träning",
+      "description": "Inställd Träning ikväll",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 21.6
-      }
+      "weather": null
     },
     {
       "date": "2026-06-29",
@@ -1867,10 +2007,22 @@
       "type": "Träning",
       "description": "Träning utomhus",
       "location": "Kronängs Arena",
+      "weather": null
+    },
+    {
+      "date": "2026-06-30",
+      "day": "30",
+      "weekday": "tis",
+      "time": "17:30",
+      "team": "Dam",
+      "team_id": "52695",
+      "type": "Träning",
+      "description": "Träning och mat",
+      "location": "Kronängs Arena",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 21.6
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 20.4
       }
     },
     {
@@ -1886,23 +2038,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 21.1
-      }
-    },
-    {
-      "date": "2026-06-30",
-      "day": "30",
-      "weekday": "tis",
-      "time": "18:45",
-      "team": "P2009-2010",
-      "team_id": "224798",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 21.1
+        "temp": 20.4
       }
     }
   ]
