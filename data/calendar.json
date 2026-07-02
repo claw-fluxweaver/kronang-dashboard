@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T09:32:15.984115",
+  "last_updated": "2026-07-02T08:43:46.605042",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
@@ -15,11 +15,7 @@
       "type": "Match",
       "description": "IK Frisco U borta",
       "location": "Katebovallen A(Damer, Div 3 Södra)",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 22.4
-      }
+      "weather": null
     },
     {
       "date": "2026-07-01",
@@ -31,11 +27,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 22.4
-      }
+      "weather": null
     },
     {
       "date": "2026-07-01",
@@ -47,11 +39,7 @@
       "type": "Match",
       "description": "IK Frisco U borta",
       "location": "Katebovallen A(Damer, Div 3 Södra)",
-      "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 22.4
-      }
+      "weather": null
     },
     {
       "date": "2026-07-02",
@@ -66,7 +54,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Regn",
-        "temp": 15.6
+        "temp": 15.5
       }
     },
     {
@@ -82,7 +70,7 @@
       "weather": {
         "icon": "⛅",
         "desc": "Delvis molnigt",
-        "temp": 15.1
+        "temp": 14.0
       }
     },
     {
@@ -95,7 +83,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": null
+      "weather": {
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 20.2
+      }
     },
     {
       "date": "2026-07-13",
