@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T08:43:46.605042",
+  "last_updated": "2026-07-03T08:51:38.965379",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
@@ -51,11 +51,7 @@
       "type": "Match",
       "description": "Fritsla IF borta",
       "location": "Kungaberg A(Herrar, Div 5 Sydvästra)",
-      "weather": {
-        "icon": "🌧️",
-        "desc": "Regn",
-        "temp": 15.5
-      }
+      "weather": null
     },
     {
       "date": "2026-07-06",
@@ -68,9 +64,9 @@
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 14.0
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 15.4
       }
     },
     {
@@ -84,9 +80,9 @@
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 20.2
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 18.9
       }
     },
     {
