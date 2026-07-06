@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T08:43:23.294651",
+  "last_updated": "2026-07-06T10:00:03.638044",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
@@ -14,8 +14,7 @@
       "team_id": "52695",
       "type": "Match",
       "description": "IK Frisco U borta",
-      "location": "Katebovallen A(Damer, Div 3 Södra)",
-      "weather": null
+      "location": "Katebovallen A(Damer, Div 3 Södra)"
     },
     {
       "date": "2026-07-01",
@@ -26,8 +25,7 @@
       "team_id": "38937",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena A-plan",
-      "weather": null
+      "location": "Kronängs Arena A-plan"
     },
     {
       "date": "2026-07-01",
@@ -38,8 +36,7 @@
       "team_id": "430796",
       "type": "Match",
       "description": "IK Frisco U borta",
-      "location": "Katebovallen A(Damer, Div 3 Södra)",
-      "weather": null
+      "location": "Katebovallen A(Damer, Div 3 Södra)"
     },
     {
       "date": "2026-07-02",
@@ -50,8 +47,7 @@
       "team_id": "38937",
       "type": "Match",
       "description": "Fritsla IF borta",
-      "location": "Kungaberg A(Herrar, Div 5 Sydvästra)",
-      "weather": null
+      "location": "Kungaberg A(Herrar, Div 5 Sydvästra)"
     },
     {
       "date": "2026-07-13",
@@ -62,8 +58,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": null
+      "location": "Kronängs Arena B-plan"
     },
     {
       "date": "2026-07-15",
@@ -74,8 +69,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": null
+      "location": "Kronängs Arena B-plan"
     },
     {
       "date": "2026-07-20",
@@ -86,8 +80,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": null
+      "location": "Kronängs Arena B-plan"
     },
     {
       "date": "2026-07-22",
@@ -98,8 +91,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": null
+      "location": "Kronängs Arena B-plan"
     },
     {
       "date": "2026-07-27",
@@ -110,8 +102,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": null
+      "location": "Kronängs Arena B-plan"
     },
     {
       "date": "2026-07-29",
@@ -122,8 +113,7 @@
       "team_id": "374981",
       "type": "Träning",
       "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": null
+      "location": "Kronängs Arena B-plan"
     },
     {
       "date": "2026-07-30",
@@ -134,8 +124,7 @@
       "team_id": "374981",
       "type": "Övrigt",
       "description": "Skarasommarland Cup",
-      "location": "Skara (Samlingsplats - Kronäng Arena)",
-      "weather": null
+      "location": "Skara (Samlingsplats - Kronäng Arena)"
     },
     {
       "date": "2026-07-30",
@@ -146,8 +135,7 @@
       "team_id": "374981",
       "type": "Övrigt",
       "description": "Skara sommarcup",
-      "location": "Kronängs Arena",
-      "weather": null
+      "location": "Kronängs Arena"
     },
     {
       "date": "2026-07-31",
@@ -158,8 +146,7 @@
       "team_id": "374981",
       "type": "Övrigt",
       "description": "Skarasommarland Cup",
-      "location": "Skara (Samlingsplats - Kronäng Arena)",
-      "weather": null
+      "location": "Skara (Samlingsplats - Kronäng Arena)"
     },
     {
       "date": "2026-07-31",
@@ -170,8 +157,7 @@
       "team_id": "181941",
       "type": "Match",
       "description": "BOULE hemma",
-      "location": "Kronängs Arena Boule()",
-      "weather": null
+      "location": "Kronängs Arena Boule()"
     }
   ]
 }
