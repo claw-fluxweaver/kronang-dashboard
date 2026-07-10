@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-09T09:29:34.877730",
+  "last_updated": "2026-07-10T09:21:23.587927",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
-  "activity_count": 15,
+  "activity_count": 16,
   "activities": [
     {
       "date": "2026-07-01",
@@ -66,6 +66,22 @@
       "weather": null
     },
     {
+      "date": "2026-07-12",
+      "day": "12",
+      "weekday": "sön",
+      "time": "19:00",
+      "team": "P2009-2010",
+      "team_id": "224798",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": {
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 20.2
+      }
+    },
+    {
       "date": "2026-07-13",
       "day": "13",
       "weekday": "mån",
@@ -76,9 +92,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 23.5
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 23.6
       }
     },
     {
@@ -92,9 +108,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 23.5
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 27.6
       }
     },
     {
