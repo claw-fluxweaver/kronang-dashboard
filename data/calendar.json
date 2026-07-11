@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-10T09:21:23.587927",
+  "last_updated": "2026-07-11T07:42:41.064202",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
-  "activity_count": 16,
+  "activity_count": 14,
   "activities": [
     {
       "date": "2026-07-01",
@@ -78,39 +78,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "Molnigt",
-        "temp": 20.2
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "day": "13",
-      "weekday": "mån",
-      "time": "17:30",
-      "team": "F2013/2014",
-      "team_id": "374981",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 23.6
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "day": "15",
-      "weekday": "ons",
-      "time": "17:30",
-      "team": "F2013/2014",
-      "team_id": "374981",
-      "type": "Träning",
-      "description": "Träning",
-      "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 27.6
+        "temp": 22.7
       }
     },
     {
