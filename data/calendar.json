@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T07:53:20.783688",
+  "last_updated": "2026-07-16T07:59:04.185543",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
@@ -88,9 +88,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 29.3
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 27.8
       }
     },
     {
@@ -104,9 +104,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 15.6
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 17.8
       }
     },
     {
@@ -119,7 +119,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": null
+      "weather": {
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 19.7
+      }
     },
     {
       "date": "2026-07-27",
