@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-24T08:11:17.362113",
+  "last_updated": "2026-07-25T07:53:14.175822",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
-  "activity_count": 15,
+  "activity_count": 16,
   "activities": [
     {
       "date": "2026-07-01",
@@ -124,9 +124,25 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 17.8
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 18.0
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "day": "27",
+      "weekday": "mån",
+      "time": "17:30",
+      "team": "P 2015",
+      "team_id": "56158",
+      "type": "Träning",
+      "description": "Extra träning försäsong.",
+      "location": "Kronängs Arena B-plan",
+      "weather": {
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 18.0
       }
     },
     {
@@ -140,9 +156,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 21.4
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 22.2
       }
     },
     {
@@ -168,9 +184,9 @@
       "description": "Skara sommarcup",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 28.1
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 23.8
       }
     },
     {
@@ -195,7 +211,11 @@
       "type": "Match",
       "description": "BOULE hemma",
       "location": "Kronängs Arena Boule()",
-      "weather": null
+      "weather": {
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 18.1
+      }
     }
   ]
 }
