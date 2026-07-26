@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T07:53:14.175822",
+  "last_updated": "2026-07-26T08:11:53.649099",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
@@ -126,7 +126,7 @@
       "weather": {
         "icon": "⛅",
         "desc": "Delvis molnigt",
-        "temp": 18.0
+        "temp": 19.2
       }
     },
     {
@@ -142,7 +142,7 @@
       "weather": {
         "icon": "⛅",
         "desc": "Delvis molnigt",
-        "temp": 18.0
+        "temp": 19.2
       }
     },
     {
@@ -156,9 +156,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 22.2
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 22.9
       }
     },
     {
@@ -184,9 +184,9 @@
       "description": "Skara sommarcup",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 23.8
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 27.4
       }
     },
     {
@@ -212,9 +212,9 @@
       "description": "BOULE hemma",
       "location": "Kronängs Arena Boule()",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 18.1
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 17.8
       }
     }
   ]
