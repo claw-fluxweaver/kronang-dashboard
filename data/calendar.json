@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T09:35:23.408624",
+  "last_updated": "2026-07-28T08:19:42.065819",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
@@ -135,11 +135,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 19.3
-      }
+      "weather": null
     },
     {
       "date": "2026-07-27",
@@ -151,11 +147,7 @@
       "type": "Träning",
       "description": "Extra träning försäsong.",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 19.3
-      }
+      "weather": null
     },
     {
       "date": "2026-07-29",
@@ -168,9 +160,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 22.7
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 25.5
       }
     },
     {
@@ -198,7 +190,7 @@
       "weather": {
         "icon": "🌤️",
         "desc": "Mestadels klart",
-        "temp": 28.3
+        "temp": 30.8
       }
     },
     {
@@ -224,9 +216,9 @@
       "description": "BOULE hemma",
       "location": "Kronängs Arena Boule()",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.8
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 15.2
       }
     }
   ]
