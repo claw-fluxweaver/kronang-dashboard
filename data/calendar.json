@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-29T08:25:25.847130",
+  "last_updated": "2026-07-30T08:10:14.653080",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
-  "activity_count": 18,
+  "activity_count": 19,
   "activities": [
     {
       "date": "2026-07-01",
@@ -159,11 +159,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 24.2
-      }
+      "weather": null
     },
     {
       "date": "2026-07-29",
@@ -175,11 +171,7 @@
       "type": "Träning",
       "description": "Extra Träning försäsong",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "☁️",
-        "desc": "Molnigt",
-        "temp": 24.2
-      }
+      "weather": null
     },
     {
       "date": "2026-07-30",
@@ -206,7 +198,23 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 31.1
+        "temp": 31.3
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "day": "30",
+      "weekday": "tor",
+      "time": "19:00",
+      "team": "P2009-2010",
+      "team_id": "224798",
+      "type": "Träning",
+      "description": "Träning",
+      "location": "Kronängs Arena",
+      "weather": {
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 31.3
       }
     },
     {
@@ -232,9 +240,9 @@
       "description": "BOULE hemma",
       "location": "Kronängs Arena Boule()",
       "weather": {
-        "icon": "⛅",
-        "desc": "Delvis molnigt",
-        "temp": 16.7
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 16.2
       }
     }
   ]
