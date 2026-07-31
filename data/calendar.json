@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T08:10:14.653080",
+  "last_updated": "2026-07-31T08:37:34.952028",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 7,
   "year": 2026,
@@ -195,11 +195,7 @@
       "type": "Övrigt",
       "description": "Skara sommarcup",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 31.3
-      }
+      "weather": null
     },
     {
       "date": "2026-07-30",
@@ -211,11 +207,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 31.3
-      }
+      "weather": null
     },
     {
       "date": "2026-07-31",
@@ -242,7 +234,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 16.2
+        "temp": 15.9
       }
     }
   ]
