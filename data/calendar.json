@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-02T10:18:10.016393",
+  "last_updated": "2026-09-03T10:28:10.132209",
   "source": "https://www.kronangsif.se/kalender/ajaxKalender.asp?ID=38276",
   "month": 9,
   "year": 2026,
-  "activity_count": 200,
+  "activity_count": 201,
   "activities": [
     {
       "date": "2026-09-01",
@@ -111,11 +111,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.5
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -127,11 +123,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.5
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -143,11 +135,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.5
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -159,11 +147,7 @@
       "type": "Övrigt",
       "description": "Domaruppdrag",
       "location": "Kronängs Arena",
-      "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.5
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -175,11 +159,7 @@
       "type": "Match",
       "description": "Fristads GoIF Röd hemma",
       "location": "Kronängs Arena B-plan(Pojkar Div 11 Sandared)",
-      "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.5
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -191,11 +171,7 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -207,11 +183,7 @@
       "type": "Match",
       "description": "Kinna IF Blå borta",
       "location": "Kunskapens hus (konstgräs)(Pojkar Div 6 Borås)",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -223,11 +195,7 @@
       "type": "Match",
       "description": "Hemsjö IF U borta",
       "location": "Noltorpsvallen B Konstgräs(Damer, Utveckling Södra)",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-09-02",
@@ -239,11 +207,7 @@
       "type": "Match",
       "description": "Hemsjö IF U borta",
       "location": "Noltorpsvallen B Konstgräs(Damer, Utveckling Södra)",
-      "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 16.0
-      }
+      "weather": null
     },
     {
       "date": "2026-09-03",
@@ -256,9 +220,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.1
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 15.4
       }
     },
     {
@@ -272,9 +236,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.1
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 15.4
       }
     },
     {
@@ -288,9 +252,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.1
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 15.4
       }
     },
     {
@@ -304,9 +268,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.1
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 15.4
       }
     },
     {
@@ -320,9 +284,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.1
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 15.4
       }
     },
     {
@@ -338,7 +302,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 16.0
+        "temp": 15.2
       }
     },
     {
@@ -353,8 +317,8 @@
       "location": "Kronängs Arena",
       "weather": {
         "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.6
+        "desc": "Regn",
+        "temp": 14.8
       }
     },
     {
@@ -369,8 +333,8 @@
       "location": "Kronängs Arena",
       "weather": {
         "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.6
+        "desc": "Regn",
+        "temp": 14.8
       }
     },
     {
@@ -385,8 +349,8 @@
       "location": "Kronängs Arena",
       "weather": {
         "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.6
+        "desc": "Regn",
+        "temp": 14.8
       }
     },
     {
@@ -400,9 +364,9 @@
       "description": "Rydboholms SK hemma",
       "location": "Kronängs Arena A-plan(Herrar, Div 5 Sydvästra)",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Regn",
-        "temp": 14.7
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 15.1
       }
     },
     {
@@ -416,9 +380,9 @@
       "description": "Domaruppdrag",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.4
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 14.6
       }
     },
     {
@@ -432,9 +396,25 @@
       "description": "Ulricehamns IFK Blå hemma",
       "location": "Kronängs Arena A-plan(Pojkar Div 4 Borås)",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.4
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 14.6
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "day": "05",
+      "weekday": "lör",
+      "time": "11:00",
+      "team": "P2011",
+      "team_id": "260562",
+      "type": "Övrigt",
+      "description": "Domare",
+      "location": "Kronängs Arena",
+      "weather": {
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 14.6
       }
     },
     {
@@ -448,9 +428,9 @@
       "description": "Sjömarken/Sandared Vit hemma",
       "location": "Kronängs Arena B-plan(Pojkar Div 8 Dalsjöfors)",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.4
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 14.6
       }
     },
     {
@@ -464,9 +444,9 @@
       "description": "Skene IF Vit borta",
       "location": "Kunskapens Hus, konstgräs(Pojkar Div 13 Borås)",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 15.4
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 14.6
       }
     },
     {
@@ -482,7 +462,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 16.0
+        "temp": 15.6
       }
     },
     {
@@ -498,7 +478,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 16.0
+        "temp": 15.6
       }
     },
     {
@@ -514,7 +494,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 16.0
+        "temp": 15.6
       }
     },
     {
@@ -530,7 +510,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "Klar himmel",
-        "temp": 11.2
+        "temp": 11.3
       }
     },
     {
@@ -544,9 +524,9 @@
       "description": "Borta",
       "location": "Borås Arena()",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 14.9
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 14.8
       }
     },
     {
@@ -560,9 +540,9 @@
       "description": "Tollered/Hemsjö borta",
       "location": "Spinnarvallen 1 Gräs(Pojkar Div 8 Borås norr)",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 16.7
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 16.5
       }
     },
     {
@@ -576,9 +556,9 @@
       "description": "Bergdalens IK Röd hemma",
       "location": "Kronängs Arena A-plan(Pojkar Div 11 Sandared)",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 16.7
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 16.5
       }
     },
     {
@@ -592,9 +572,9 @@
       "description": "Byttorps IF borta",
       "location": "Byttorps IP A(Flickor Div 5 Kinna)",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 18.1
+        "icon": "🌤️",
+        "desc": "Mestadels klart",
+        "temp": 17.9
       }
     },
     {
@@ -608,9 +588,9 @@
       "description": "Kioskbemanning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "☀️",
-        "desc": "Klar himmel",
-        "temp": 19.8
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 18.9
       }
     },
     {
@@ -624,9 +604,9 @@
       "description": "Annelunds IF hemma",
       "location": "Kronängs Arena B-plan(Pojkar Div 8 Alingsås)",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 19.6
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 18.5
       }
     },
     {
@@ -640,9 +620,9 @@
       "description": "Svansjö borta",
       "location": "Hagavallen, Öxabäck(Pojkar Div 11 Kinna)",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 17.8
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 16.9
       }
     },
     {
@@ -654,11 +634,11 @@
       "team_id": "260562",
       "type": "Match",
       "description": "Ubbhults/Hällingsjö/Hyssna  hemma",
-      "location": "Kronängs Arena B-plan(Pojkar Div 5 Mark)",
+      "location": "Kronängs Arena A-plan(Pojkar Div 5 Mark)",
       "weather": {
-        "icon": "🌤️",
-        "desc": "Mestadels klart",
-        "temp": 17.8
+        "icon": "☀️",
+        "desc": "Klar himmel",
+        "temp": 16.9
       }
     },
     {
@@ -674,7 +654,7 @@
       "weather": {
         "icon": "🌤️",
         "desc": "Mestadels klart",
-        "temp": 16.4
+        "temp": 15.7
       }
     },
     {
@@ -688,9 +668,9 @@
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.0
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 17.7
       }
     },
     {
@@ -704,9 +684,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.0
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 17.7
       }
     },
     {
@@ -720,9 +700,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 16.0
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 17.7
       }
     },
     {
@@ -736,9 +716,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 14.9
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 17.0
       }
     },
     {
@@ -752,9 +732,9 @@
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 13.7
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 16.0
       }
     },
     {
@@ -768,9 +748,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 13.7
+        "icon": "⛅",
+        "desc": "Delvis molnigt",
+        "temp": 16.0
       }
     },
     {
@@ -786,7 +766,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 15.0
+        "temp": 16.3
       }
     },
     {
@@ -802,7 +782,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 15.0
+        "temp": 16.3
       }
     },
     {
@@ -818,7 +798,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 15.0
+        "temp": 16.3
       }
     },
     {
@@ -834,7 +814,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 15.0
+        "temp": 16.3
       }
     },
     {
@@ -850,7 +830,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 15.0
+        "temp": 16.3
       }
     },
     {
@@ -866,7 +846,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 15.0
+        "temp": 16.3
       }
     },
     {
@@ -882,7 +862,7 @@
       "weather": {
         "icon": "🌧️",
         "desc": "Dis",
-        "temp": 15.0
+        "temp": 16.3
       }
     },
     {
@@ -896,9 +876,9 @@
       "description": "Alingsås IF FF Vit borta",
       "location": "Mjörnvallen, B-plan(Pojkar Div 6 Borås)",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 13.9
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 15.6
       }
     },
     {
@@ -912,9 +892,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 13.0
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 14.8
       }
     },
     {
@@ -928,9 +908,9 @@
       "description": "Träning",
       "location": "Kronängs Arena",
       "weather": {
-        "icon": "🌧️",
-        "desc": "Dis",
-        "temp": 13.0
+        "icon": "☁️",
+        "desc": "Molnigt",
+        "temp": 14.8
       }
     },
     {
@@ -943,7 +923,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena B-plan",
-      "weather": null
+      "weather": {
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 13.2
+      }
     },
     {
       "date": "2026-09-09",
@@ -955,7 +939,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": null
+      "weather": {
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 13.2
+      }
     },
     {
       "date": "2026-09-09",
@@ -967,7 +955,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena",
-      "weather": null
+      "weather": {
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 13.2
+      }
     },
     {
       "date": "2026-09-09",
@@ -979,7 +971,11 @@
       "type": "Match",
       "description": "Byttorps IF Vit hemma",
       "location": "Kronängs Arena B-plan(Pojkar Div 11 Kinna)",
-      "weather": null
+      "weather": {
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 13.2
+      }
     },
     {
       "date": "2026-09-09",
@@ -991,7 +987,11 @@
       "type": "Träning",
       "description": "Träning",
       "location": "Kronängs Arena A-plan",
-      "weather": null
+      "weather": {
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 11.6
+      }
     },
     {
       "date": "2026-09-09",
@@ -1003,7 +1003,11 @@
       "type": "Match",
       "description": "Rydboholms SK borta",
       "location": "Sven Erikssonsvallen A konstgräs(Pojkar Div 4 Borås)",
-      "weather": null
+      "weather": {
+        "icon": "🌧️",
+        "desc": "Dis",
+        "temp": 11.6
+      }
     },
     {
       "date": "2026-09-10",
